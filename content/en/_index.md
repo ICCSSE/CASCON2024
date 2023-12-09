@@ -51,8 +51,13 @@ Sponsors
 {.h1 .text-center}
 {{% /blocks/section %}}
 
-
 {{% blocks/section type="row" color="white" %}}
-
+<center>
+  {{< card >}}
+<a href=https://cscan-infocan.ca>
+<img src="sponsors/cs-can.png" style="max-width:80%;max-height=80%;">
+</a>
+  {{< /card >}}
+</center>
 {{% /blocks/section %}}
 
