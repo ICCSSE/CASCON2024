@@ -16,7 +16,7 @@ CASCON is a premier academic and industrial conference for advanced studies in c
 The conference program features thought-provoking keynotes, original research papers, stimulating workshops, and an engaging technology expo. Conference proceedings are published in the ACM Digital Library (<a href=https://dl.acm.org/conference/cascon>https://dl.acm.org/conference/cascon</a>).
 We are happy to announce that this year CASCON will be co-located with CSCAN-INFOCAN, aiming to promote knowledge sharing, networking, and innovation in Canadian computer science and related fields.
 </p>
-<a class="btn btn-lg btn-secondary me-3 mb-4" href="/cfp/">
+<a class="btn btn-lg btn-secondary me-3 mb-4" href="cfp/">
   Call for Papers<i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 
