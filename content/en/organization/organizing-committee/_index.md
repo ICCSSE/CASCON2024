@@ -62,5 +62,11 @@ weight: 20
       <td>Kostas Kontogiannis</td>
       <td>York University</td>
     </tr>
-  </tbody>
+    <tr>
+      <td>Local Organization Co-Chair</td>
+      <td>Gina Vandalen</td>
+      <td>CS-Can/Info-Can</td>
+    </tr>
+
+</tbody>
 </table>
