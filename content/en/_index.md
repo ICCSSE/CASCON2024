@@ -4,6 +4,7 @@ title: CASCON 2024
 
 {{< blocks/cover title="CASCON 2024" image_anchor="top" height="full" >}}
 <p class="lead mt-5">34th Annual International Conference on Computer Science and Software Engineering</p>
+<p class="lead mt-5">Second Student Centre, York University</p>
 <p class="lead mt-5">15 Library Lane, Toronto, Canada</p>
 <p class="lead mt-5">November 11-15, 2024</p>
 {{< blocks/link-down color="info" >}}
