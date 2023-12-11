@@ -64,7 +64,7 @@ weight: 20
     </tr>
     <tr>
       <td>Local Organization Co-Chair</td>
-      <td>Gina Vandalen</td>
+      <td>Gina van Dalen</td>
       <td>CS-Can/Info-Can</td>
     </tr>
 
