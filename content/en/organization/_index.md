@@ -69,3 +69,4 @@ menu: {main: {weight: 50}}
     </tr>
 
 </tbody>
+</table>
