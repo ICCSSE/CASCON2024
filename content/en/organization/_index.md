@@ -7,7 +7,7 @@ menu: {main: {weight: 50}}
 <table class="table">
   <thead>
     <tr>
-      <th scope="Position">Position</th>
+      <th scope="Organizing Committee">Organizing Committee</th>
       <th scope="Member">Member</th>
       <th scope="Affiliation">Affiliation</th>
     </tr>
@@ -32,6 +32,11 @@ menu: {main: {weight: 50}}
       <td>Jonathan Schaeffer</td>
       <td>University of Alberta</td>
     </tr>
+	<tr>
+	  <td>Workshop co-Chair</td>
+	  <td>Calisto Zuzarte</td>
+	  <td>IBM Canada</td>
+	</tr>
     <tr>
       <td>Tutorials Co-Chair</td>
       <td>Nandita Vijaykumar</td>
@@ -55,7 +60,7 @@ menu: {main: {weight: 50}}
     <tr>
       <td>Web Chair</td>
       <td>Nathan Henderson</td>
-      <td>IBM</td>
+      <td>IBM Canada</td>
     </tr>
     <tr>
       <td>Local Organization Co-Chair</td>
@@ -70,3 +75,59 @@ menu: {main: {weight: 50}}
 
 </tbody>
 </table>
+
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="Steering Committee">Steering</th>
+      <th scope="Affiliation">Affiliation</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+	<td>Marin Litoiu</td>
+	<td>York University</td>
+	</tr>
+     <tr>
+	<td>Hausi Muller</td>
+	<td>University of Victoria</td>
+	</tr>
+	<tr>
+	<td>Joe Wigglesworth</td>
+	<td>IBM Canada</td>
+	</tr>
+	<tr>
+	<td>Kelly Lyons</td>
+	<td>University of Toronto</td>
+	</tr>
+	<tr>
+	<td>Vio Onut</td>
+	<td>IBM Canada</td>
+	</tr>
+	<tr>
+	<td>Guy-Vincent Jourdan</td>
+	<td>University of Ottawa</td>
+	</tr>
+	<tr>
+	<td>Kenny Wong</td>
+	<td>University of Alberta</td>
+	</tr>
+	<tr>
+	<td>Kenneth Kent</td> 
+	<td>University of New Brunswick</td>
+	</tr>
+	<tr>
+	<td>Robert Enenkel</td> 
+	<td>IBM Canada</td>
+	</tr>
+	<tr>
+	<td>Paula Branco</td> 
+	<td>University of Ottawa</td>
+	</tr>
+	<tr>
+	<td>Marcellus Mindel</td>
+	<td>Mindel Solutions</td>
+	</tr>
+	</tbody>
+</table>
+	
