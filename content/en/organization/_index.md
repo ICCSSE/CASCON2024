@@ -32,11 +32,16 @@ menu: {main: {weight: 50}}
       <td>Jonathan Schaeffer</td>
       <td>University of Alberta</td>
     </tr>
-	<tr>
-	  <td>Workshop co-Chair</td>
-	  <td>Calisto Zuzarte</td>
-	  <td>IBM Canada</td>
-	</tr>
+    <tr>
+      <td>Workshop Co-Chair</td>
+      <td>Calisto Zuzarte</td>
+      <td>IBM Canada</td>
+    </tr>
+    <tr>
+      <td>Workshop Co-Chair</td>
+      <td>Julia Rubin</td>
+      <td>University of British Columbia</td>
+    </tr>
     <tr>
       <td>Tutorials Co-Chair</td>
       <td>Nandita Vijaykumar</td>
