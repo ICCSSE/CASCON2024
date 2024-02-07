@@ -62,6 +62,11 @@ menu: {main: {weight: 50}}
       <td>Vio Onut</td>
       <td>IBM</td>
     </tr>
+	<tr>
+	<td>Proceedings Chair</td>
+	<td>Paria Shirani</td>
+	<td>University of Ottawa</td>
+	</tr>
     <tr>
       <td>Web Chair</td>
       <td>Nathan Henderson</td>
