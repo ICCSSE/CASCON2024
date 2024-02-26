@@ -11,7 +11,7 @@
       "devDependencies": {
         "autoprefixer": "^10.4.14",
         "cross-env": "^7.0.3",
-        "hugo-extended": "0.121.0",
+        "hugo-extended": "0.123.3",
         "postcss-cli": "^11.0.0"
       }
     },
@@ -1150,9 +1150,9 @@
       }
     },
     "node_modules/hugo-extended": {
-      "version": "0.121.0",
-      "resolved": "https://registry.npmjs.org/hugo-extended/-/hugo-extended-0.121.0.tgz",
-      "integrity": "sha512-OZIEN6CI/gh1EgqpAvLiKzk+A4g7tbpCltcd7Yc7U2qPz6vHNoVYorGqwnMw/osGzNXHVFegB/z93eXNb3Oguw==",
+      "version": "0.123.3",
+      "resolved": "https://registry.npmjs.org/hugo-extended/-/hugo-extended-0.123.3.tgz",
+      "integrity": "sha512-NfWuSoDfzqPgvY9xBaZ1VMEAeqoAuswW0pn4CcmnduVVyRXmTnpX0HdgG+tj6DtldJmMXHh24ZNnjdI9wus0yg==",
       "dev": true,
       "hasInstallScript": true,
       "dependencies": {
