@@ -63,9 +63,14 @@ menu: {main: {weight: 50}}
       <td>IBM</td>
     </tr>
 	<tr>
-	<td>Proceedings Chair</td>
+	<td>Proceedings co-Chair</td>
 	<td>Paria Shirani</td>
 	<td>University of Ottawa</td>
+	</tr>
+    <tr>
+	<td>Proceedings co-Chair</td>
+	<td>Khosro Salmani</td>
+	<td>Mount Royal University</td>
 	</tr>
     <tr>
       <td>Web Chair</td>
