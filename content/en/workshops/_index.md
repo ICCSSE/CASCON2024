@@ -33,11 +33,11 @@ Important Dates
 <table class="table caption-top">
   <tbody>
     <tr>
-      <td>Proposal Submissions Open</td>
+      <td>Proposal submissions open</td>
       <td>Friday, July 2, 2024</td>
     </tr>
     <tr>
-      <td>Proposal Due</td>
+      <td>Proposal due</td>
       <td>Monday, August 15, 2024 </td>
     </tr>
     <tr>
@@ -45,7 +45,7 @@ Important Dates
       <td>Monday, August 29, 2024 </td>
     </tr>
     <tr>
-      <td>Final Content Due</td>
+      <td>Final content due</td>
       <td>Monday, September 27, 2024</td>
     </tr>
   </tbody>
