@@ -176,7 +176,7 @@ Paper Submission Instructions
 Submissions are made via EasyChair and must be in the double column standard ACM format for conference proceedings. All types of papers should strictly follow the page limit constraint to be considered as eligible for review. The defined page limit should include the paper, figures, tables, and references. The steps for submitting a paper are as follows:
 
 <ul>
-  <li>Visit EasyChair at <a href=https://easychair.org/conferences/submission_new?a=32699400>https://easychair.org/conferences/submission_new?a=32699400</a>.</li>
+  <li>Visit EasyChair at <a href=https://easychair.org/conferences/?conf=cascon2024>https://easychair.org/conferences/?conf=cascon2024</a>.</li>
   <li>After logging in, click on make a new submission to submit your paper.</li>
   <li>All authors should use the official "ACM Master article template", which can be obtained from the ACM Proceedings Template pages. Latex users should use the "sigconf" option, as well as the "review" (to produce line numbers for easy reference by the reviewers).</li>
 </ul>
