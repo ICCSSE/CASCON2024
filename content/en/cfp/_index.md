@@ -155,9 +155,9 @@ CASCON 2024 calls for two types of research papers:
   <li><b>Short Papers</b> - Work in progress with some validation results, experience reports, new ideas and visionary papers based on supporting theory or evidence, and application papers at most 6 pages long (including references).</li>
 </ul>
 
-CASCON 2024 will not accept submissions that have been previously published, are in press, or have been submitted elsewhere. We encourage interdisciplinary research papers. Accepted papers will be included in the conference proceedings published in the ACM Digital Library.
+CASCON 2024 will not accept submissions that have been previously published, are in press, or have been submitted elsewhere. We encourage interdisciplinary research papers. Accepted papers will be included in the conference proceedings published in IEEE XPLORE.
 
-One of the authors of the accepted papers must register and present the paper at the conference. Failure to attend and present the paper at the conference will result in withdrawal of the paper from the ACM proceedings.
+One of the authors of the accepted papers must register and present the paper at the conference. Failure to attend and present the paper at the conference will result in withdrawal of the paper from the IEEE XPLORE proceedings.
 {{% /blocks/section %}}
 
 
@@ -173,7 +173,7 @@ Best Paper and Best Student Paper awards will be given to recognize the best tec
 Paper Submission Instructions
 {.h1}
 
-Submissions are made via EasyChair and must be in the double column standard ACM format for conference proceedings. All types of papers should strictly follow the page limit constraint to be considered as eligible for review. The defined page limit should include the paper, figures, tables, and references. The steps for submitting a paper are as follows:
+Submissions are made via EasyChair and must be in the double column standard IEEE format for conference proceedings. All types of papers should strictly follow the page limit constraint to be considered as eligible for review. The defined page limit should include the paper, figures, tables, and references. The steps for submitting a paper are as follows:
 
 <ul>
   <li>Visit EasyChair at <a href=https://easychair.org/conferences/?conf=cascon2024>https://easychair.org/conferences/?conf=cascon2024</a>.</li>
