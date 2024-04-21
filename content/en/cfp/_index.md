@@ -155,6 +155,10 @@ CASCON 2024 calls for two types of research papers:
   <li><b>Short Papers</b> - Work in progress with some validation results, experience reports, new ideas and visionary papers based on supporting theory or evidence, and application papers at most 6 pages long (including references).</li>
 </ul>
 
+<p>
+Each technical paper must conform at the time of submission to the <a href="https://www.ieee.org/conferences/publishing/templates.html">IEEE Formatting Instructions</a> (i.e., title in 24pt font and full text in 10pt type, LaTEX users must use \documentclass[10pt,conference]{IEEEtran} without including the compsoc or compsocconf option). The submission must also comply with the <a href="https://journals.ieeeauthorcenter.ieee.org/become-an-ieee-journal-author/publishing-ethics/">IEEE Policy on Authorship</a>. 
+</p>
+
 CASCON 2024 will not accept submissions that have been previously published, are in press, or have been submitted elsewhere. We encourage interdisciplinary research papers. Accepted papers will be included in the conference proceedings published in IEEE XPLORE.
 
 One of the authors of the accepted papers must register and present the paper at the conference. Failure to attend and present the paper at the conference will result in withdrawal of the paper from the IEEE XPLORE proceedings.
