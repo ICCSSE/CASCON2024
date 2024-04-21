@@ -179,6 +179,10 @@ menu: {main: {weight: 50}}
       <td>Jeremy Bradbury</td>
       <td>Ontario Tech University</td>
     </tr>
+	<tr>
+      <td>Paula Branco</td>
+      <td>University of Ottawa</td>
+    </tr>
     <tr>
       <td>David Bremner</td>
       <td>University of New Brunswick</td>
@@ -195,9 +199,17 @@ menu: {main: {weight: 50}}
       <td>Marsha Chechik</td>
       <td>University of Toronto</td>
     </tr>
+	<tr>
+      <td>Madeline Cribb</td>
+      <td>IBM</td>
+    </tr>
     <tr>
       <td>Renato De Mori</td>
       <td>McGill University</td>
+    </tr>
+   	<tr>
+      <td>Thomas Dean</td>
+      <td>Queens University</td>
     </tr>
     <tr>
       <td>Frank Dehne</td>
@@ -211,21 +223,29 @@ menu: {main: {weight: 50}}
       <td>Rachida Dssouli</td>
       <td>Concordia University</td>
     </tr>
+   	<tr>
+      <td>Gerhard Dueck</td>
+      <td>University of New Brunswick</td>
+    </tr>
     <tr>
       <td>Ghizlane El Boussaidi</td>
       <td>École de technologie supérieure</td>
     </tr>
     <tr>
-      <td>Marios-Eleftherios Fokaefs</td>
-      <td>York University</td>
-    </tr>
-    <tr>
       <td>Sudhakar Ganti</td>
       <td>University of Victoria</td>
+    </tr>
+   	<tr>
+      <td>Parke Godfrey</td>
+      <td>York University</td>
     </tr>
     <tr>
       <td>James Green</td>
       <td>Carleton University</td>
+    </tr>
+   	<tr>
+      <td>Akihiro Hayashi</td>
+      <td>Georgia Institute of Technology</td>
     </tr>
     <tr>
       <td>Hadi Hemmati</td>
@@ -250,13 +270,25 @@ menu: {main: {weight: 50}}
     <tr>
       <td>Fatemeh Khoda Parast</td>
     </tr>
+   	<tr>
+      <td>Foutse Khomh</td>
+      <td>École Polytechnique de Montréal</td>
+    </tr>
     <tr>
       <td>Diwakar Krishnamurthy</td>
       <td>University of Calgary</td>
     </tr>
     <tr>
+      <td>Georgiy Krylov</td>
+      <td>University of New Brunswick</td>
+    </tr>
+    <tr>
       <td>Michael Kwok</td>
       <td>IBM</td>
+    </tr>
+    <tr>
+      <td>Jo\atilde;o Paulo Labegalini de Carvalho</td>
+      <td>Qualcomn</td>
     </tr>
     <tr>
       <td>Alexei Lapouchnian</td>
@@ -279,6 +311,10 @@ menu: {main: {weight: 50}}
       <td>York University</td>
     </tr>
     <tr>
+      <td>Kelly Lyons</td>
+      <td>University of Toronto</td>
+    </tr>
+    <tr>
       <td>Hanan Lutfiyya</td>
       <td>University of Western Ontario</td>
     </tr>
@@ -297,6 +333,10 @@ menu: {main: {weight: 50}}
     <tr>
       <td>Mostafa Milani</td>
       <td>The University of Western Ontario</td>
+    </tr>
+    <tr>
+      <td>James Miller</td>
+      <td>University of Alberta</td>
     </tr>
     <tr>
       <td>Andriy Miranskyy</td>
@@ -359,8 +399,20 @@ menu: {main: {weight: 50}}
       <td>Simon Fraser University</td>
     </tr>
     <tr>
+      <td>Suprio Ray</td>
+      <td>University of New Brunswick</td>
+    </tr>
+    <tr>
       <td>Juergen Rilling</td>
       <td>Concordia University</td>
+    </tr>
+    <tr>
+      <td>Chanchal K. Roy</td>
+      <td>University of Saskatchewan</td>
+    </tr>
+    <tr>
+      <td>Razieh Salahandish</td>
+      <td>York University</td>
     </tr>
     <tr>
       <td>Mohammed Sayagh</td>
@@ -369,6 +421,10 @@ menu: {main: {weight: 50}}
     <tr>
       <td>Weiyi Shang</td>
       <td>University of Waterloo</td>
+    </tr>
+    <tr>
+      <td>Jun Shirako</td>
+      <td>Georgia Institute of Technology</td>
     </tr>
     <tr>
       <td>Paria Shirani</td>
@@ -389,6 +445,10 @@ menu: {main: {weight: 50}}
     <tr>
       <td>Vijay Sundaresan</td>
       <td>IBM</td>
+    </tr>
+    <tr>
+      <td>Jaroslaw Szlichta</td>
+      <td>York University</td>
     </tr>
     <tr>
       <td>Manas Thakur</td>
