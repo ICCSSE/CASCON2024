@@ -44,7 +44,7 @@ Important Dates
 </center>
 <p class="lead mt-5" align="left">
 CASCON is a premier academic and industrial conference for advanced studies in computer science and software engineering. Since 1991, CASCON has attracted software developers, researchers, innovators, technologists and decision-makers from academia, industry, and government, who come together to learn about technology trends, present papers, participate in workshops, and exhibit prototypes and solutions.
-The conference program features thought-provoking keynotes, original research papers, stimulating workshops, and an engaging technology expo. Conference proceedings are published in the ACM Digital Library (<a href=https://dl.acm.org/conference/cascon>https://dl.acm.org/conference/cascon</a>).
+The conference program features thought-provoking keynotes, original research papers, stimulating workshops, and an engaging technology expo. Conference proceedings are published in the <a href="https://ieeexplore.ieee.org/Xplore/home.jsp">IEEE XPlore</a>.  
 We are happy to announce that this year CASCON will be co-located with CSCAN-INFOCAN, aiming to promote knowledge sharing, networking, and innovation in Canadian computer science and related fields.
 </p>
 {{% /blocks/lead %}}
