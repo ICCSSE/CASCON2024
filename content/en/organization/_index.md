@@ -428,7 +428,7 @@ menu: {main: {weight: 50}}
     </tr>
     <tr>
       <td>Paria Shirani</td>
-      <td>Ryerson University</td>
+      <td>University of Ottawa</td>
     </tr>
     <tr>
       <td>Gabriel Silberman</td>
