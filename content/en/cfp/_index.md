@@ -182,7 +182,7 @@ Submissions are made via EasyChair and must be in the double column standard IEE
 <ul>
   <li>Visit EasyChair at <a href=https://easychair.org/conferences/?conf=cascon2024>https://easychair.org/conferences/?conf=cascon2024</a>.</li>
   <li>After logging in, click on make a new submission to submit your paper.</li>
-  <li>All authors should use the official "ACM Master article template", which can be obtained from the ACM Proceedings Template pages. Latex users should use the "sigconf" option, as well as the "review" (to produce line numbers for easy reference by the reviewers).</li>
+  <li>All authors should use the <a href="https://www.ieee.org/conferences/publishing/templates.html">IEEE Formatting Instructions</a>, which can be obtained from the ACM Proceedings Template pages. Latex users should use the "sigconf" option, as well as the "review" (to produce line numbers for easy reference by the reviewers).</li>
 </ul>
 
 
