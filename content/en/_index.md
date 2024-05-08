@@ -61,11 +61,13 @@ Sponsors
 <img src="sponsors/cs-can.png" style="max-width:80%;max-height=80%;">
 </a>
   {{< /card >}}
+  <!--
   {{< card >}}
 <a href=https://ieee.org>
 <img src="sponsors/ieee.png" style="max-width:80%;max-height=80%;">
 </a>
   {{< /card >}}
+  -->
 </center>
 {{% /blocks/section %}}
 
