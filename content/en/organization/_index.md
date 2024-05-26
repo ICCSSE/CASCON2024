@@ -168,8 +168,8 @@ menu: {main: {weight: 50}}
       <td>Ontario Tech University</td>
     </tr>
     <tr>
-      <td>Ayse Bener</td>
-      <td>Ryerson University</td>
+      <td>Ay&scedil;e Ba&scedil;ar</td>
+      <td>Toronto Metropolitan University</td>
     </tr>
     <tr>
       <td>Alvine Boaye Belle</td>
@@ -189,7 +189,7 @@ menu: {main: {weight: 50}}
     </tr>
     <tr>
       <td>Mucahit Cevik</td>
-      <td>Ryerson University</td>
+      <td>Toronto Metropolitan University</td>
     </tr>
     <tr>
       <td>Alexander Chatzigeorgiou</td>
@@ -249,7 +249,7 @@ menu: {main: {weight: 50}}
     </tr>
     <tr>
       <td>Hadi Hemmati</td>
-      <td>University of Calgary</td>
+      <td>York University</td>
     </tr>
     <tr>
       <td>Daqing Hou</td>
@@ -269,6 +269,7 @@ menu: {main: {weight: 50}}
     </tr>
     <tr>
       <td>Fatemeh Khoda Parast</td>
+	  <td>University of Guelph</td>
     </tr>
    	<tr>
       <td>Foutse Khomh</td>
@@ -304,7 +305,7 @@ menu: {main: {weight: 50}}
     </tr>
     <tr>
       <td>Jin Li</td>
-      <td>PointClickCare</td>
+      <td>Centennial College</td>
     </tr>
     <tr>
       <td>Marin Litoiu</td>
@@ -340,7 +341,7 @@ menu: {main: {weight: 50}}
     </tr>
     <tr>
       <td>Andriy Miranskyy</td>
-      <td>Ryerson University</td>
+      <td>Toronto Metropolitan University</td>
     </tr>
     <tr>
       <td>Marc Moreno Maza</td>
@@ -348,7 +349,7 @@ menu: {main: {weight: 50}}
     </tr>
     <tr>
       <td>Vida Movahedi</td>
-      <td>Seneca College</td>
+      <td>Seneca Polytechnic</td>
     </tr>
     <tr>
       <td>Todd Mowry</td>
@@ -360,7 +361,7 @@ menu: {main: {weight: 50}}
     </tr>
     <tr>
       <td>Sumona Mukhopadhyay</td>
-      <td>York University, Toronto</td>
+      <td>California Polytechnic State University</td>
     </tr>
     <tr>
       <td>Hausi A Muller</td>
@@ -432,7 +433,7 @@ menu: {main: {weight: 50}}
     </tr>
     <tr>
       <td>Gabriel Silberman</td>
-      <td>Barcelona Institute of Science and Technology</td>
+      <td>Cerebri AI</td>
     </tr>
     <tr>
       <td>Ulrike Stege</td>
