@@ -28,6 +28,11 @@ menu: {main: {weight: 50}}
       <td>Marios Fokaefs</td>
       <td>York University</td>
     </tr>
+	<tr>
+	<td>Artifact-Evaluation Chair</td>
+	<td> Christopher Anand</td>
+	<td>McMaster University</td>
+	</tr>
     <tr>
       <td>Finance Chair</td>
       <td>Jonathan Schaeffer</td>
