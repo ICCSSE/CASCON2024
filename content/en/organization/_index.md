@@ -79,6 +79,16 @@ menu: {main: {weight: 50}}
 	<td>Mount Royal University</td>
 	</tr>
     <tr>
+      <td>Social Media co-Chair</td>
+      <td>William Aiken</td>
+      <td>University of Ottawa</td>
+    </tr>	
+    <tr>
+      <td>Social Media co-Chair</td>
+      <td>Paul Mvula</td>
+      <td>University of Ottawa</td>
+    </tr>	
+    <tr>
       <td>Web Chair</td>
       <td>Nathan Henderson</td>
       <td>IBM Canada</td>
