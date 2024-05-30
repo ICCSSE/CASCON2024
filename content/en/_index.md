@@ -70,6 +70,11 @@ Sponsors
 <img src="sponsors/ieee.png" style="max-width:80%;max-height=80%;">
 </a>
   {{< /card >}}
+    {{< card >}}
+<a href=https://www.huawei.com/ca/>
+<img src="sponsors/Huawei_logo.png" style="max-width:80%;max-height=80%;">
+</a>
+  {{< /card >}}
 </center>
 {{% /blocks/section %}}
 
