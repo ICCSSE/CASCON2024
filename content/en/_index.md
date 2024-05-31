@@ -68,6 +68,7 @@ Sponsors
   {{< card >}}
 <a href=https://ieee.org>
 <img src="sponsors/ieee.png" style="max-width:50%;max-height=80%;">
+<img src="sponsors/IEEE-CS_LOGO.jpg" style="max-width:50%;max-height=80%;">
 <img src="sponsors/TCSE-color.jpg" style="max-width:50%;max-height=80%;">
 </a>
   {{< /card >}}
