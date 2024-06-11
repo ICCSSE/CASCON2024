@@ -124,7 +124,7 @@ Important Dates
 <table class="table caption-top">
   <tbody>
     <tr>
-      <td>Abstract submission</td>
+      <td>Abstract (optional) submission</td>
       <td>Monday, June 10, 2024</td>
     </tr>
     <tr>
@@ -142,11 +142,20 @@ Important Dates
   </tbody>
 </table>
 {{% /blocks/section %}}
+{{% blocks/section color="white" %}}
+Abstract submission is optional
+{.h1}
 
+<p>Abstract submissions are optional. Until the paper submission deadline, authors can update existing submissions, upload manuscript PDF and the source files. The submission reviewed will be the final version submitted before the deadline.
+</p>
+
+{{% /blocks/section %}}
 
 {{% blocks/section color="white" %}}
 Paper Types
 {.h1}
+
+
 
 CASCON 2024 calls for two types of research papers:
 
