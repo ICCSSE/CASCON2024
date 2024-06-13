@@ -56,7 +56,7 @@ Important Dates
 {{% blocks/section color="white" %}}
 Proposal Submission Instructions
 {.h1}
-To submit a tutorial or workshop proposal please access  https://easychair.org/conferences/submission_new?a=32598059 and select either:
+To submit a tutorial or workshop proposal please access <a href="https://easychair.org/conferences/?conf=cascon2024"> https://easychair.org/conferences/?conf=cascon2024</a> and select either:
 <ul>
   <li>"Workshop Proposal" or</li>
   <li>"Tutorial Proposal"</li>
