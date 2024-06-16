@@ -22,7 +22,7 @@ In 2024 the posters will provide an excellent opportunity for networking and to 
 Topics
 {.h1}
 
-We invite high-quality submissions of regular ( 8-10 pages) and short (4-6 pages) papers describing original and unpublished results. We welcome submissions addressing topics across the full spectrum of intelligent systems and software including but not limited to:
+We welcome submissions addressing topics across the full spectrum of intelligent systems and software including but not limited to:
 
 {{< cardpane >}}
   {{< card header="Software Systems and Engineering" >}}
