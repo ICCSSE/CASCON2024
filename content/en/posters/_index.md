@@ -7,7 +7,11 @@ menu: {main: {weight: 10}}
 {{% blocks/section color="white" %}}
 CASCON is a premier conference for advanced studies in computer science and software engineering. This year the conference is led by academics. It attracts software developers, researchers, innovators, technologists and decision makers from academia, industry, and government, who come together to learn about technology trends, present papers, participate in workshops, and exhibit prototypes and solutions. The conference program features thought-provoking keynotes, original research papers, stimulating workshops, and an engaging technology expo. Conference proceedings are published in IEEE Explore.
 
-In 2024 the posters will provide an excellent opportunity for networking and to highlight research results and generate interest in upcoming or developing research, products and product areas. Accepted posters will be presented in person by at least one of the authors. The format of the poster will be 61cm x 91cm  (24in x 36in) size. Authors of the accepted posters are responsible for printing their posters and bringing them to the conference.
+In 2024 the posters will provide an excellent opportunity for networking and to highlight research results and generate interest in upcoming or developing research, products and product areas. Accepted posters will be presented in person by at least one of the authors.
+<!--
+The format of the poster will be 61cm x 91cm  (24in x 36in) size.
+--> 
+Authors of the accepted posters are responsible for printing their posters and bringing them to the conference.
 {{% /blocks/section %}}
 
 <b>Poster proposals should include:</b>
@@ -128,12 +132,12 @@ Important Dates
 <table class="table caption-top">
   <tbody>
     <tr>
-      <td>Proposal submissions open</td>
+      <td>Poster submissions open</td>
       <td>Friday, July 2, 2024</td>
     </tr>
     <tr>
-      <td>Proposal due</td>
-      <td>Monday, September 2, 2024 </td>
+      <td>Poster due</td>
+      <td>Wednesday, August 28, 2024 </td>
     </tr>
     <tr>
       <td>Notification of acceptance</td>
@@ -147,10 +151,10 @@ Important Dates
 </table>
 {{% /blocks/section %}}
 
-
+<!--
 {{% blocks/section color="white" %}}
 Proposal Submission Instructions
 {.h1}
 To submit a poster proposal please access <a href="https://easychair.org/conferences/submission_new?a=32598059"> easychair</a> and select "Poster Presentation".
 {{% /blocks/section %}}
-
+-->
