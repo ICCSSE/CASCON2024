@@ -129,7 +129,7 @@ Important Dates
     </tr>
     <tr>
       <td>Paper submission</td>
-      <td>Friday, June 26, 2024 (Anywhere on Earth, firm deadline)</td>
+      <td>Wednesday, June 26, 2024 (Anywhere on Earth, firm deadline)</td>
     </tr>
     <tr>
       <td>Notification of acceptance</td>
