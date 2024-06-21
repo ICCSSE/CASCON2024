@@ -25,7 +25,7 @@ Important Dates
   <tbody>
     <tr>
       <td>Paper submission</td>
-      <td><s>Friday, June 21, 2024</s> <b>Wednesday, June 26, 2024</b> </td>
+      <td><s>Friday, June 21, 2024</s> <b>Wednesday, June 26, 2024</b> (Anywhere on Earth) </td>
     </tr>
     <tr>
       <td>Notification of acceptance</td>
