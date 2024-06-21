@@ -124,12 +124,8 @@ Important Dates
 <table class="table caption-top">
   <tbody>
     <tr>
-      <td>Abstract (optional) submission</td>
-      <td>Monday, June 10, 2024</td>
-    </tr>
-    <tr>
       <td>Paper submission</td>
-      <td>Wednesday, June 26, 2024 (Anywhere on Earth, firm deadline)</td>
+      <td><s>Friday, June 21, 2024</s> Wednesday, June 26, 2024 (Anywhere on Earth, firm deadline)</td>
     </tr>
     <tr>
       <td>Notification of acceptance</td>
