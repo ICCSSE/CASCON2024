@@ -24,12 +24,8 @@ Important Dates
 <table class="table caption-top">
   <tbody>
     <tr>
-      <td>Abstract submission</td>
-      <td>Monday, June 10, 2024</td>
-    </tr>
-    <tr>
       <td>Paper submission</td>
-      <td>Friday, June 21, 2024 </td>
+      <td><s>Friday, June 21, 2024</s> <b>Wednesday, June 26, 2024</b> </td>
     </tr>
     <tr>
       <td>Notification of acceptance</td>
