@@ -15,7 +15,7 @@ In 2024 the workshops will provide a forum to present, discuss, and debate issue
   <li>List of all organizers and their contact information.</li>
   <li>A brief abstract of the goals and format of the workshop (250 words max). If your workshop is accepted, this information will appear on the CASCON website.</li>
   <li>Workshop theme, goals, and relevance. Please provide a clear statement of why members of the CASCON community will be interested in this workshop and what impact your workshop will have on them. Also, state your success criteria for the workshop (500 words max) </li>
-  <li>A description of how the workshop will be structured (e.g., paper presentations, invited talks, working sessions, panels, etc.). Briefly explain how this format will help achieve the workshop goals. Mention already secured invited and keyone talks (500 words max)</li>
+  <li>A description of how the workshop will be structured (e.g., paper presentations, invited talks, working sessions, panels, etc.). Briefly explain how this format will help achieve the workshop goals. Mention already secured invited and keynote talks (500 words max)</li>
   <li>Workshop duration (half day, 1 day).</li>
   <li>Additional requests for the organizers (if any).</li>
 </ul>
