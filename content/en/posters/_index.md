@@ -136,7 +136,7 @@ Important Dates
       <td>Friday, July 2, 2024</td>
     </tr>
     <tr>
-      <td>Poster due</td>
+      <td>Poster Abstract due</td>
       <td>Wednesday, August 28, 2024 </td>
     </tr>
     <tr>
