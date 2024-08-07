@@ -182,9 +182,18 @@ Best Paper Awards
 Best Paper and Best Student Paper awards will be given to recognize the best technical contributions of the event in terms of originality, clarity, and potential impact. To be eligible for the Best Student Paper award, the primary author(s) of the paper and contributor(s) of the work must have been a student(s) at the time the work was done.
 {{% /blocks/section %}}
 
+{{% blocks/section color="white" %}}
+Camera-Ready Submission Instructions
+{.h1}
 
 {{% blocks/section color="white" %}}
-Paper Submission Instructions
+Paper Preparation
+{.h2}
+
+Please make sure to use the right <a href="https://www.ieee.org/conferences/publishing/templates.html">Microsoft Word or LaTeX</a> templates and ensure that your manuscript is thoroughly proofread to avoid any errors or omissions.
+
+{{% blocks/section color="white" %}}
+Initial Manuscript Submission Instructions
 {.h1}
 
 Submissions are made via EasyChair and must be in the double column standard IEEE format for conference proceedings. All types of papers should strictly follow the page limit constraint to be considered as eligible for review. The defined page limit should include the paper, figures, tables, and references. The steps for submitting a paper are as follows:
