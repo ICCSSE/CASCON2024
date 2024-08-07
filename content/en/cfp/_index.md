@@ -186,6 +186,7 @@ Best Paper and Best Student Paper awards will be given to recognize the best tec
 Camera-Ready Submission Instructions
 {.h1}
 
+<!--
 {{% blocks/section color="white" %}}
 Paper Preparation
 {.h2}
@@ -201,6 +202,8 @@ Please include the following copyright statement at the bottom of the first page
 <blockquote>
 <i>Abstracting is permitted with credit to the source. Libraries are permitted to photocopy beyond the limit of U.S. copyright law for private use of patrons those articles in this volume that carry a code at the bottom of the first page, provided the per-copy fee indicated in the code is paid through Copyright Clearance Center, 222 Rosewood Drive, Danvers, MA 01923. For reprint or republication permission, email the IEEE Copyrights Manager at pubs-permissions@ieee.org. All rights reserved. Copyright ©2024 by IEEE.</i>
 </blockquote>
+
+-->
 
 {{% blocks/section color="white" %}}
 Initial Manuscript Submission Instructions
