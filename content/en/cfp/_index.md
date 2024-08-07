@@ -186,24 +186,9 @@ Best Paper and Best Student Paper awards will be given to recognize the best tec
 Camera-Ready Submission Instructions
 {.h1}
 
-<!--
-{{% blocks/section color="white" %}}
-Paper Preparation
-{.h2}
+Please see <a href="cameraready.html">instructions for submitting Camera-Ready Version of your paper</a>.
 
-Please make sure to use the right <a href="https://www.ieee.org/conferences/publishing/templates.html">Microsoft Word or LaTeX</a> templates and ensure that your manuscript is thoroughly proofread to avoid any errors or omissions.
 
-{{% blocks/section color="white" %}}
-Copyright Statement
-{.h2}
-
-Please include the following copyright statement at the bottom of the first page of your paper. This statement is mandatory for compliance with IEEE publication standards and should be added before the final submission of the PDF. 
-
-<blockquote>
-<i>Abstracting is permitted with credit to the source. Libraries are permitted to photocopy beyond the limit of U.S. copyright law for private use of patrons those articles in this volume that carry a code at the bottom of the first page, provided the per-copy fee indicated in the code is paid through Copyright Clearance Center, 222 Rosewood Drive, Danvers, MA 01923. For reprint or republication permission, email the IEEE Copyrights Manager at pubs-permissions@ieee.org. All rights reserved. Copyright ©2024 by IEEE.</i>
-</blockquote>
-
--->
 
 {{% blocks/section color="white" %}}
 Initial Manuscript Submission Instructions
