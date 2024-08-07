@@ -194,7 +194,7 @@ Please see <a href="cameraready.html">instructions for submitting Camera-Ready V
 Initial Manuscript Submission Instructions
 {.h1}
 
-Submissions are made via EasyChair and must be in the double column standard IEEE format for conference proceedings. All types of papers should strictly follow the page limit constraint to be considered as eligible for review. The defined page limit should include the paper, figures, tables, and references. The steps for submitting a paper are as follows:
+Submissions are made via EasyChair and must be in the double column standard IEEE format for conference proceedings. All types of papers should strictly follow the page limit constraint to be considered as eligible for review. The defined page limit should include the paper, figures, tables, and references. The steps for submitting a paper are as follows: 
 
 <ul>
   <li>Visit EasyChair at <a href=https://easychair.org/conferences/?conf=cascon2024>https://easychair.org/conferences/?conf=cascon2024</a>.</li>
