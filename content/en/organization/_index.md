@@ -303,8 +303,8 @@ menu: {main: {weight: 50}}
       <td>IBM</td>
     </tr>
     <tr>
-      <td>Jo\atilde;o Paulo Labegalini de Carvalho</td>
-      <td>Qualcomn</td>
+      <td>João Paulo Labegalini de Carvalho</td>
+      <td>AMD</td>
     </tr>
     <tr>
       <td>Alexei Lapouchnian</td>
