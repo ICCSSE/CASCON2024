@@ -190,8 +190,9 @@ Best Paper and Best Student Paper awards will be given to recognize the best tec
 Camera-Ready Submission Instructions
 {.h1}
 
-Please see <a href="cameraready.html">instructions for submitting Camera-Ready Version of your paper</a>.
+Please see <a href="cameraready.md">instructions for submitting Camera-Ready Version of your paper</a>.
 
+{{% /blocks/section %}}
 
 
 {{% blocks/section color="white" %}}

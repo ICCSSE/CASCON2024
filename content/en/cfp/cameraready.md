@@ -1,21 +1,15 @@
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
-<html> <head>
-
-
-<title>Camera-Ready Submission Instructions</title>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-</head>
-
-{{% blocks/section color="white" %}}
-Camera-Ready Submission Instructions
-{.h1}
-
+---
+title: Camera-Ready Submission Instructions
+type: docs
+---
 
 {{% blocks/section color="white" %}}
 Paper Preparation
 {.h2}
 
 Please make sure to use the right <a href="https://www.ieee.org/conferences/publishing/templates.html">Microsoft Word or LaTeX</a> templates and ensure that your manuscript is thoroughly proofread to avoid any errors or omissions.
+
+{{% /blocks/section %}}
 
 {{% blocks/section color="white" %}}
 Copyright Statement
@@ -34,6 +28,8 @@ All conference papers should be marked with the following information in the lef
 34th International Conference on Collaborative Advances in Software and COmputiNg (CASCON), 2024, IEEE
 </blockquote>
 
+{{% /blocks/section %}}
+
 {{% blocks/section color="white" %}}
 Paper Validation
 {.h2}
@@ -44,6 +40,8 @@ Before submitting the Camera-ready version in EasyChair, please validate your PD
 - Select the "New Users - Click Here" link. 
 - Enter the Conference ID: 62161X, your email address, and a password. 
 - Follow the instructions to set up your account. 
+
+{{% /blocks/section %}}
 
 {{% blocks/section color="white" %}}
 Final Submission
@@ -59,6 +57,8 @@ You are required to submit your source files in EasyChair. Failure to do so will
 
 The submission deadline is on <b>August 16, 2024</b>. Once the camera-ready version of your paper is submitted and approved, the authors will receive instructions on how to sign the Copyright forms.
 
+{{% /blocks/section %}}
+
 {{% blocks/section color="white" %}}
 Additional Resources
 {.h2}
@@ -70,7 +70,5 @@ For any technical support, visit the IEEE PDF
 eXpress Support Center at
 <a href="https://supportcenter.ieee.org/app/answers/list/p/12">https://supportcenter.ieee.org/app/answers/list/p/12</a>.
 
-<hr>
-<address></address>
-<!-- hhmts start -->Last modified: Wed Aug  7 10:48:41 MDT 2024 <!-- hhmts end -->
-</body> </html>
+{{% /blocks/section %}}
+
