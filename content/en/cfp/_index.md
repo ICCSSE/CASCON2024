@@ -131,7 +131,11 @@ Important Dates
     </tr>
     <tr>
       <td>Camera-ready</td>
-      <td>Friday, August 9, 2024</td>
+      <td>Friday, August 16, 2024</td>
+    </tr>
+    <tr>
+      <td>Copyright-form submission</td>
+      <td>Monday, September 02, 2024</td>
     </tr>
   </tbody>
 </table>
