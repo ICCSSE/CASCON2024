@@ -151,10 +151,10 @@ Important Dates
 </table>
 {{% /blocks/section %}}
 
-<!--
+
 {{% blocks/section color="white" %}}
 Proposal Submission Instructions
 {.h1}
-To submit a poster proposal please access <a href="https://easychair.org/conferences/submission_new?a=32598059"> easychair</a> and select "Poster Presentation".
+To submit a poster proposal please access <a href="https://easychair.org/conferences/?conf=cascon2024"> https://easychair.org/conferences/?conf=cascon2024</a> and select "Posters".
 {{% /blocks/section %}}
--->
+
