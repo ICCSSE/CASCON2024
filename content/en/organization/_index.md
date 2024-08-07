@@ -304,7 +304,7 @@ menu: {main: {weight: 50}}
     </tr>
     <tr>
       <td>João Paulo Labegalini de Carvalho</td>
-      <td>Qualcomn</td>
+      <td>AMD</td>
     </tr>
     <tr>
       <td>Alexei Lapouchnian</td>
