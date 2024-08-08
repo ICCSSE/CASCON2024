@@ -190,7 +190,7 @@ Best Paper and Best Student Paper awards will be given to recognize the best tec
 Camera-Ready Submission Instructions
 {.h1}
 
-Please see [instructions for submitting Camera-Ready Version of your paper]({{< ref "cameraready" >}}).
+Please see [instructions for submitting Camera-Ready Version of your paper]({{< ref "/cfp/cameraready.md" >}}).
 
 {{% /blocks/section %}}
 
