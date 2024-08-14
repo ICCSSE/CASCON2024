@@ -38,7 +38,7 @@ Important Dates
     </tr>
     <tr>
       <td>Proposal due</td>
-      <td>Monday, August 15, 2024 </td>
+      <td>Thursday, August 15, 2024 </td>
     </tr>
     <tr>
       <td>Notification of acceptance</td>
