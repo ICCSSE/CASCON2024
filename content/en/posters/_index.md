@@ -133,7 +133,7 @@ Important Dates
   <tbody>
     <tr>
       <td>Poster submissions open</td>
-      <td>Friday, July 2, 2024</td>
+      <td>Tuesday, July 2, 2024</td>
     </tr>
     <tr>
       <td>Poster Abstract due</td>
@@ -145,7 +145,7 @@ Important Dates
     </tr>
     <tr>
       <td>Final content due</td>
-      <td>Monday, September 27, 2024</td>
+      <td>Friday, September 27, 2024</td>
     </tr>
   </tbody>
 </table>

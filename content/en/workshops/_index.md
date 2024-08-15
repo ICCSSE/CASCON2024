@@ -34,7 +34,7 @@ Important Dates
   <tbody>
     <tr>
       <td>Proposal submissions open</td>
-      <td>Friday, July 2, 2024</td>
+      <td>Tuesday, July 2, 2024</td>
     </tr>
     <tr>
       <td>Proposal due</td>
@@ -42,11 +42,11 @@ Important Dates
     </tr>
     <tr>
       <td>Notification of acceptance</td>
-      <td>Monday, August 29, 2024 </td>
+      <td>Thursday, August 29, 2024 </td>
     </tr>
     <tr>
       <td>Final content due</td>
-      <td>Monday, September 27, 2024</td>
+      <td>Friday, September 27, 2024</td>
     </tr>
   </tbody>
 </table>
