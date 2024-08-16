@@ -8,9 +8,6 @@ The conference venue is the <a href="https://youtu.be/enMcHisqOnc?si=ConM0H4mmWA
 
 CASCON attendees are expected to behave in accordance with the <a href="https://www.ieee.org/about/corporate/governance/p7-8.html">IEEE Code of Ethics</a>.
 
-{{% blocks/section color="white"%}}
-Registration
-{.h1}
 
 <a href="https://cscan-infocan.ca/co-located-tickets/">Registration Site for CASCON 2024</a>
 
