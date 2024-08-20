@@ -24,16 +24,12 @@ Important Dates
 <table class="table caption-top">
   <tbody>
     <tr>
-      <td>Paper submission</td>
-      <td><s>Friday, June 21, 2024</s> <b>Wednesday, June 26, 2024</b> (Anywhere on Earth) </td>
+      <td>Poster (title/abstract) submission</td>
+      <td>Wednesday, August 28, 2024 (Anywhere on Earth) </td>
     </tr>
     <tr>
       <td>Notification of acceptance</td>
-      <td>Friday, July 26, 2024</td>
-    </tr>
-    <tr>
-      <td>Camera-ready</td>
-      <td>Friday, August 9, 2024</td>
+      <td>Monday, September 16, 2024</td>
     </tr>
   </tbody>
 </table>
