@@ -43,5 +43,4 @@ CASCON 2024 will feature the following Workshops and Tutorials:
 exhibit intelligent behavior and interact with both the Physical and Cyber worlds. In this respect, we believe that the workshop will provide the springboard for interesting discussions and fostering new research ideas to researchers who work on service computing, distributed systems, adaptive systems, data management systems, and on the applications of AI for monitoring and securing large scale systems.</p>
 
  
-
-
+{{% /blocks/section %}}
