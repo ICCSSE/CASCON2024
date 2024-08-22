@@ -12,10 +12,24 @@ CASCON 2024 will feature the following Workshops and Tutorials:
 		<ul>
 		<li> <a href="#CyPress">CyPress: 4th Workshop on Software Techniques for Cyber-Physical Systems</a> (Morning)</li>
 	    <li> <a href="#NatLang">Natural language interfaces powered by large language models</a> (Afternoon)</li>
-		<li> <a href="#
+		<li> <a href="#AICloud">Develop Explainable AI Services on Cloud Computing and Open Source Models</a> (Morning)</li>
 		</ul>
 	<li> <b> Tuesday, November 12, 2024 </b> </li>
+	<ul>
+		<li> <a href="#CDP"></a> (All Day)</li>
+		<li> <a href="#ObservExplain"></a> (All Day)</li>
+		<li> <a href="#iM-PACT"></a> (Morning)</li>
+		<li> <a href="#DITA"></a> (Afternoon)</li>
+		<li> <a href="#AI@Work"></a> (Afternoon)</li>
+		</ul>
 	<li> <b> Wednesday, November 13, 2024 </b> </li>
+		<ul>
+		<li> <a href="#ML4DM"></a> (All Day)</li>
+		<li> <a href="#AORCT"></a> (All Day)</li>
+		<li> <a href="#SENGEC"></a> (Morning)</li>
+		<li> <a href="#ClientZero"></a> (Morning)</li>
+		<li> <a href="AgileKip.pdf">Tutorial: AgileKip PAP - Bridging Business and IT with Open-Source Process Automation</a> (Afternoon)</li>
+		<li> <a href="#PACOLA"></a> (Afternoon)</li>
 </ul>
 
  <h2><a name="Cypress"><b>CyPress: 4th Workshop on Software Techniques for Cyber-Physical Systems</b></a></h2>
@@ -43,6 +57,7 @@ CASCON 2024 will feature the following Workshops and Tutorials:
 
 <p>The workshop will touch upon key infrastructure technologies related to distributed data-base technologies, cloud systems, digital-twins, frameworks for adaptive systems, component security and compliance, as well as the use of AI and smart contracts in engineering intelligent systems. These technologies cover a wide spectrum of the state-of-the-art in designing and deploying systems that
 exhibit intelligent behavior and interact with both the Physical and Cyber worlds. In this respect, we believe that the workshop will provide the springboard for interesting discussions and fostering new research ideas to researchers who work on service computing, distributed systems, adaptive systems, data management systems, and on the applications of AI for monitoring and securing large scale systems.</p>
+
 
  
 {{% /blocks/section %}}
