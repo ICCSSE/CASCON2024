@@ -1,5 +1,5 @@
 ---
-title: Call for Workshops/Tutorials
+title: Workshops/Tutorials
 type: docs
 menu: {main: {weight: 10}}
 ---
