@@ -11,7 +11,7 @@ CASCON 2024 will feature the following Workshops and Tutorials:
 	<li> <b> Monday, November 11, 2024 </b> </li>
 	<ul>
 		<li> <a href="CyPress.pdf">CyPress: 4th Workshop on Software Techniques for Cyber-Physical Systems</a> (Morning)</li>
-	    <li> <a href="Natlang.pdf">Natural language interfaces powered by large language models</a> (Afternoon)</li>
+	    <li> <a href="NatLang.pdf">Natural language interfaces powered by large language models</a> (Afternoon)</li>
 		<li> <a href="#AICloud">Develop Explainable AI Services on Cloud Computing and Open Source Models</a> (Morning)</li>
 	</ul>
 	<li> <b> Tuesday, November 12, 2024 </b> </li>
