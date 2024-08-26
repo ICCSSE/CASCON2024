@@ -66,3 +66,15 @@ CASCON attendees are expected to behave in accordance with the <a href="https://
 <td>Non-Student - Full Pass (Includes Banquet)</td><td>$830</td>
 </tr>
 </table>
+
+
+<h2>Accommodations, Public Transit, Parking:</h2>
+
+<p>There are several hotels in the area of York University and in other areas with easy transit connection to the venue.</p>
+
+<p><b>There are major events that are likely to attract many out-of-town visitors immediately after the conference days (November 14-16) that may affect price/availability of lodging options. Thus we recommend that you make lodging arrangements in advance.</b></p>
+
+<p>There is also a <a href="https://www.ttc.ca/subway-stations/york-university">subway station</a> and a <a href="https://www.yrt.ca/en/index.aspx">bus hub</a> within walking distance from the venue. </p>
+
+<p>For parking options close to the venue, please see the <a href="https://www.yorku.ca/parking/parking-rates-permits/daily-rates/">York University Parking Services</a> site.</p>
+
