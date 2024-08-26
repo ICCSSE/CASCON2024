@@ -40,7 +40,8 @@ Machine Learning in Modern Data Management</a> (All Day)</li>
 
 
 
-<h2> <a name="CyPress2"></a>CyPress: 4th Workshop on Software Techniques for Cyber-Physical Systems</h2>
+<a name="CyPress2"></a>
+<h2>CyPress: 4th Workshop on Software Techniques for Cyber-Physical Systems</h2>
 
 <p><h3>Abstract:</h3></p>
 
