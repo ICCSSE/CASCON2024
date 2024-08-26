@@ -40,7 +40,7 @@ Machine Learning in Modern Data Management</a> (All Day)</li>
 
 
 
-<h2> <a name="CyPress2">CyPress: 4th Workshop on Software Techniques for Cyber-Physical Systems</a></h2>
+<h2> <a name="CyPress2"></a>CyPress: 4th Workshop on Software Techniques for Cyber-Physical Systems</h2>
 
 <p><h3>Abstract:</h3></p>
 
@@ -49,7 +49,7 @@ Machine Learning in Modern Data Management</a> (All Day)</li>
 <p>The workshop aims to bring together leading researchers, as well as experts from software and hardware companies and technology receptors to discuss and debate the latest developments in engineering Cyber-Physical Systems.
 </p>
 
-<h2> <a name="NatLang">Natural language interfaces powered by large language models</a></h2>
+<h2> <a name="NatLang"></a>Natural language interfaces powered by large language models</h2>
 
 <p><h3>Abstract:</h3></p>
 
@@ -61,7 +61,7 @@ In this hands-on workshop, participants will learn the fundamentals of NL interf
 </p>
 
 
-<h2> <a name="AICloud">Tutorial: Develop Explainable AI Services on Cloud Computing and Open Source Models</a></h2>
+<h2> <a name="AICloud"></a>Tutorial: Develop Explainable AI Services on Cloud Computing and Open Source Models</h2>
 
 <p><h3>Abstract:</h3></p>
 
@@ -90,7 +90,7 @@ directions, ultimately benefiting the development of explainable
 and robust AI systems.
 </p>
 
-<h2> <a name="CDP">20th Workshop on Compiler-Driven Performance (CDP)</a></h2>
+<h2> <a name="CDP"></a>20th Workshop on Compiler-Driven Performance (CDP)</h2>
 
 <p><h3>Abstract:</h3></p>
 
@@ -122,8 +122,8 @@ other parallel architectures</li>
 </ul>
 </p>
 
-<h2> <a name="ObservExplain">The Workshop of Observability and Explainability
-of AI Systems</a></h2>
+<h2> <a name="ObservExplain"></a>The Workshop of Observability and Explainability
+of AI Systems</h2>
 
 <p><h3>Abstract:</h3></p>
 
@@ -143,7 +143,7 @@ frameworks, and practices that enhance our understanding and
 development of AI-driven systems.
 </p>
 
-<h2> <a name="iM-PACT">1st Workshop on Intelligent Modeling for Practical Applications and Community Transformation in Life Sciences (iM-PACT)</a></h2>
+<h2> <a name="iM-PACT"></a>1st Workshop on Intelligent Modeling for Practical Applications and Community Transformation in Life Sciences (iM-PACT)</h2>
 
 <p><h3>Abstract:</h3></p>
 
@@ -154,7 +154,7 @@ development of AI-driven systems.
 <p>The objective of this workshop is twofold: first, to expose modeling experts to tooling and automated processes related to modeling, from design to code generation and to simulation, and second, to raise awareness for developers of modeling tools to listen to challenges of other domains and develop appropriate tools.
 </p>
 
-<h2> <a name="YTech">YTech: CASCON STEM Outreach Workshop</a> (virtual Zoom event)</h2>
+<h2> <a name="YTech"></a>YTech: CASCON STEM Outreach Workshop</a> (virtual Zoom event)</h2>
 
 <p><h3>Abstract:</h3></p>
 
@@ -167,14 +167,14 @@ development of AI-driven systems.
 <p>This workshop aims to bring together in one virtual space students, professors, and admission officers so that Grade 9-12 students can get a glimpse of exciting STEM areas and consider these in their possible career paths.
 </p>
 
-<h2> <a name="DITA">1st Workshop on Dependable Internet-of-Things Applications (DITA)</a></h2>
+<h2> <a name="DITA"></a>1st Workshop on Dependable Internet-of-Things Applications (DITA)</h2>
 
 <p><h3>Abstract:</h3></p>
 
 <p>As society and economy progressed through the information age to the age of “intelligent things” and cyber-physical systems, new challenges have risen. As digital systems become more interconnected with people and enter more aspects of daily life, their reliability becomes of paramount as it may not only disrupt economic activity, but also prove a security and safety hazard. Internet-of-Things, which is the umbrella term for all applications of interconnected intelligent digital devices, encompasses a number of technical aspects that span from software engineering and artificial intelligence to hardware-software co-design and data science. In 2018, a group of researchers across Canada put together the DITA NSERC CREATE (Collaborative Research and Training Experience) program. As a CREATE program, DITA aimed to provide unique training opportunities to undergraduate and graduate students on IoT, software engineering, data science and cybersecurity, along with their applications on domains such as health, civil engineering, and urban development. As a primarily industrial program, DITA forged a number of collaborations with local companies, which gave our trainees a chance for more practical experience through internships. Six years later, the 1st DITA workshop at CASCON aims at taking a retrospective look at the achievements of the DITA CREATE program and of its graduates. In addition, it aims at providing an outlook for future research on IoT and cyber-physical systems. Alumni of the program and industrial collaborators will talk about their experience with the program and their views on the future of IoT research.
 </p>
 
-<h2> <a name="AI@Work">AI in the Workplace (AI@Work)</a></h2>
+<h2> <a name="AI@Work"></a>AI in the Workplace (AI@Work)</h2>
 
 <p><h3>Abstract:</h3></p>
 
@@ -190,8 +190,8 @@ Canadian response, we aim to raise awareness of these issues within the broader
 community, encompassing business, academia, and government.
 </p>
 
-<h2> <a name="ML4DM">ML4DM ‘24: The Fourth Workshop on the Emerging Applications of
-Machine Learning in Modern Data Management</a></h2>
+<h2> <a name="ML4DM"></a>ML4DM ‘24: The Fourth Workshop on the Emerging Applications of
+Machine Learning in Modern Data Management</h2>
 
 <p><h3>Abstract:</h3></p>
 
@@ -211,7 +211,7 @@ Database Knobs Tuning, Data Acquisition, Join Order Selection,
 and Query Plan Representation.
 </p>
 
-<h2> <a name="AORCPT">7th Workshop on Advances in Open Runtimes and Cloud Performance Technologies (AORCPT)</a></h2>
+<h2> <a name="AORCPT"></a>7th Workshop on Advances in Open Runtimes and Cloud Performance Technologies (AORCPT)</h2>
 
 <p><h3>Abstract:</h3></p>
 
@@ -240,14 +240,14 @@ Eclipse OMR, LLVM, Eclipse OpenJ9, Node.js, Open Liberty, Knative) to improve
 performance in cloud environments.
 </p>
 
-<h2> <a name="SENGEC">1st Workshop on Software Engineering Economics</a></h2>
+<h2> <a name="SENGEC"></a>1st Workshop on Software Engineering Economics</h2>
 
 <p><h3>Abstract:</h3></p>
 
 <p>With the transition of economy towards the fourth and fifth industrial revolutions, software has acquired an even more important role in the economy. From a business enabler and an economic driver, software has become the actual product. Many traditional sectors, like banking or manufacturing, have transformed from mere software users to software producers and providers. In this sense, software carries increasing economic and business value for various critical businesses and sectors. Unlike traditional products and services, software does not follow the normal product cycle (production-usage-decay) in the same way. Through continuous evolution, software has the ability to be updated and upgraded without necessarily decaying or being replaced. One challenge in looking at the economic aspect of software is the inability to translate its technical properties into business or financial values at the various development phases of the software product. It is not always only about production cost, but also about operational reliability, perceived quality, marketability, profitability, and maintainability of the software. The goal of this workshop is to bring together experts from the different relevant disciplines (economics, business and marketing, and software engineering) and discuss the challenges and strategies of creating sustainable and successful software products. Through invited talks and expert panels, the audience of the workshop will have the opportunity to explore how to transform an idea for a software application to marketable product, what the challenges are around a sustainable and profitable software product and how to model the economics of software from its technical parameters.
 </p>
 
-<h2> <a name="ClientZero">What Can You Learn from The Story of IBM's "Client Zero" AI Business Transformation</a></h2>
+<h2> <a name="ClientZero"></a>What Can You Learn from The Story of IBM's "Client Zero" AI Business Transformation</h2>
 
 <p><h3>Abstract:</h3></p>
 
@@ -263,7 +263,7 @@ Even though AI research and development has been going on for decades, and IBM b
 This session is designed to share the story of IBM’s business transformation – how as “Client Zero” we are using our own Generative AI and Cloud technologies, and those of our partners, to deliver $3 billion in productivity by the end of 2024.
 </p>
 
-<h2> <a name="AgileKip">Tutorial: AgileKip PAP - Bridging Business and IT with Open-Source Process Automation</a></h2>
+<h2> <a name="AgileKip"></a>Tutorial: AgileKip PAP - Bridging Business and IT with Open-Source Process Automation</h2>
 
 <p><h3>Abstract:</h3></p>
 
@@ -286,7 +286,7 @@ demonstrations and real-world use cases, showcasing its adaptability and effecti
 various business contexts.
 </p>
 
-<h2> <a name="PACOLA">2nd CASCON Workshop on Proactive Continuous Operations using Large Language Models (LLMs) and AIOps: Generative AI as a Catalyst for Innovation</a></h2>
+<h2> <a name="PACOLA"></a>2nd CASCON Workshop on Proactive Continuous Operations using Large Language Models (LLMs) and AIOps: Generative AI as a Catalyst for Innovation</h2>
 
 <p><h3>Abstract:</h3></p>
 
