@@ -12,11 +12,57 @@ CASCON attendees are expected to behave in accordance with the <a href="https://
 <h1>Registration</h1>
 
 
-<a href="https://cscan-infocan.ca/co-located-tickets/">Registration Site for CASCON 2024</a>
+<a href="https://cscan-infocan.ca/co-located-tickets/" target="_blank">Registration Site for CASCON 2024</a>
 
 <ul>
-  <li>You can register for one day, two days, or a Full Pass for the whole conference.</li>
-  <li>In the day that you are registered, you may attend any of the co-located events.</li>
+  <li>You may register for one day, two days, or a Full Pass for the whole conference.</li>
+  <li>On the day that you are registered, you may attend any of the co-located events.</li>
   <li>Authors of CASCON 2024 papers must register for a Full Pass</li>
-  <li>People that require a visa letter must register for a Full Pass</li>
+  <li>People who require a visa letter must register for a Full Pass</li>
 </ul>
+
+<h2>Registration on or before October 1st, 2024</h2>
+
+<table>
+<tr>
+<td>Student - One Day (No Banquet)</td><td>$125</td>
+</tr>
+<td>Student - Two Days (No Banquet)</td><td>$250</td>
+</tr>
+<td>Student - Three Days (No Banquet)</td><td>$375</td>
+</tr>
+<td>Student - Full Pass (Includes Banquet)</td><td>$455</td>
+</tr>
+<tr>
+<td>Non-Student - One Day (No Banquet)</td><td>$200</td>
+</tr>
+<td>Non-Student - Two Days (No Banquet)</td><td>$400</td>
+</tr>
+<td>Non-Student - Three Days (No Banquet)</td><td>$600</td>
+</tr>
+<td>Non-Student - Full Pass (Includes Banquet)</td><td>$680</td>
+</tr>
+</table>
+
+<h2>Registration after October 1st, 2024</h2>
+
+<table>
+<tr>
+<td>Student - One Day (No Banquet)</td><td>$150</td>
+</tr>
+<td>Student - Two Days (No Banquet)</td><td>$300</td>
+</tr>
+<td>Student - Three Days (No Banquet)</td><td>$450</td>
+</tr>
+<td>Student - Full Pass (Includes Banquet)</td><td>$530</td>
+</tr>
+<tr>
+<td>Non-Student - One Day (No Banquet)</td><td>$250</td>
+</tr>
+<td>Non-Student - Two Days (No Banquet)</td><td>$500</td>
+</tr>
+<td>Non-Student - Three Days (No Banquet)</td><td>$750</td>
+</tr>
+<td>Non-Student - Full Pass (Includes Banquet)</td><td>$830</td>
+</tr>
+</table>
