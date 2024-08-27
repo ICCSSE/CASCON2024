@@ -41,16 +41,6 @@ Machine Learning in Modern Data Management</a> (All Day)</li>
 
 
 
-<a name="CyPress2"></a>
-<h2>CyPress: 4th Workshop on Software Techniques for Cyber-Physical Systems</h2>
-
-<p><h3>Abstract:</h3></p>
-
-<p>Cyber-Physical Systems (CPSs) refer to systems comprising of software components, physical components and social entities which monitor, control, and coordinate processes within a physical environment. CPSs apply to a wide range of mission-critical applications that span from the intelligent management of logistics in complex supply chains, advanced manufacturing systems and smart contracts, all the way to autonomous systems, and systems that support the smart interactions between humans and machines (M2H), or between machines (M2M). In this respect, the engineering of CPSs goes beyond existing Software Engineering concepts, tools and techniques because of the very nature of CPSs that spans three realms (cyber, physical, social) and therefore need to address requirements that span these realms.</p>
-
-<p>The workshop aims to bring together leading researchers, as well as experts from software and hardware companies and technology receptors to discuss and debate the latest developments in engineering Cyber-Physical Systems.
-</p>
-
 <h2> <a name="NatLang"></a>Natural language interfaces powered by large language models</h2>
 
 <p><h3>Abstract:</h3></p>
@@ -154,6 +144,16 @@ development of AI-driven systems.
 <p>In computer science and mathematics, modeling is standard practice across many domains, including but not limited to machine learning models, system models, and performance models. Besides, modeling plays an important role in various domains such as epidemiology, environmental studies, and biology. For example, epidemiological models during the COVID-19 pandemic played a crucial role in understanding the spread of the virus, evaluating the potential impact of interventions, and guiding public health decisions. However, it also became evident that tool support for domains other than computer science is not as developed or as accessible to non-CS experts. Challenges around usability, appropriateness, and representativeness pose obstacles to the adoption of tools traditionally used in software modeling by experts in other.</p>
 
 <p>The objective of this workshop is twofold: first, to expose modeling experts to tooling and automated processes related to modeling, from design to code generation and to simulation, and second, to raise awareness for developers of modeling tools to listen to challenges of other domains and develop appropriate tools.
+</p>
+
+<a name="CyPress2"></a>
+<h2>CyPress: 4th Workshop on Software Techniques for Cyber-Physical Systems</h2>
+
+<p><h3>Abstract:</h3></p>
+
+<p>Cyber-Physical Systems (CPSs) refer to systems comprising of software components, physical components and social entities which monitor, control, and coordinate processes within a physical environment. CPSs apply to a wide range of mission-critical applications that span from the intelligent management of logistics in complex supply chains, advanced manufacturing systems and smart contracts, all the way to autonomous systems, and systems that support the smart interactions between humans and machines (M2H), or between machines (M2M). In this respect, the engineering of CPSs goes beyond existing Software Engineering concepts, tools and techniques because of the very nature of CPSs that spans three realms (cyber, physical, social) and therefore need to address requirements that span these realms.</p>
+
+<p>The workshop aims to bring together leading researchers, as well as experts from software and hardware companies and technology receptors to discuss and debate the latest developments in engineering Cyber-Physical Systems.
 </p>
 
 <h2> <a name="YTech"></a>YTech: CASCON STEM Outreach Workshop</a> (virtual Zoom event)</h2>
