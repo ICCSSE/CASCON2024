@@ -19,7 +19,7 @@ CASCON 2024 will feature the following Workshops and Tutorials:
 	</ul>
 	<li> <b> Tuesday, November 12, 2024 </b> </li>
 	<ul>
-		<li> <a href="#CDP">20th Workshop on Compiler-Driven Performance (CDP)</a> (All Day)</li>
+		<li> <a href="https://cdp-workshop.github.io/CDP/">20th Workshop on Compiler-Driven Performance (CDP)</a> (All Day)</li>
 		<li> <a href="#ObservExplain">The Workshop of Observability and Explainability
 of AI Systems</a> (All Day)</li>
 		<li> <a href="#iM-PACT">1st Workshop on Intelligent Modeling for Practical Applications and Community Transformation in Life Sciences (iM-PACT)</a> (Morning)</li>
