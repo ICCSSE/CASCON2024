@@ -8,6 +8,7 @@ menu: {main: {weight: 10}}
 The following posters have been accepted for presentation at CASCON 2024:
 
 <ul>
+<li><b>2JITsu: A Comparative Analysis of JAX and Pytorch across Modern Machine Learning Workloads</b><br>Ayrton Chilibeck, Danila Seliayeu, Jose Nelson Amaral and Andy Patterson</li>
 <li><b>A blockchain based hybrid access control for industrial internet of things using blockchain</b><br>Muhammad Shahzad Sarfraz and Muhammad Usman</li>
 <li><b>A Functional Event-Driven Framework for Simplified Concurrent Applications</b><br>Christopher Schankula, Christopher Anand and Spencer Smith</li>
 <li><b>A Multi-Table Approach to Floating-Point Function Approximation</b><br>Lucas Dutton, Christopher K. Anand, Robert Enenkel and Silvia Melitta M?ller</li>
