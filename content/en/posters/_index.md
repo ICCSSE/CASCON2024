@@ -11,8 +11,8 @@ The following posters have been accepted for presentation at CASCON 2024:
 <li><b>2JITsu: A Comparative Analysis of JAX and Pytorch across Modern Machine Learning Workloads</b><br>Ayrton Chilibeck, Danila Seliayeu, Jose Nelson Amaral and Andy Patterson</li>
 <li><b>A blockchain based hybrid access control for industrial internet of things using blockchain</b><br>Muhammad Shahzad Sarfraz and Muhammad Usman</li>
 <li><b>A Functional Event-Driven Framework for Simplified Concurrent Applications</b><br>Christopher Schankula, Christopher Anand and Spencer Smith</li>
-<li><b>A Multi-Table Approach to Floating-Point Function Approximation</b><br>Lucas Dutton, Christopher K. Anand, Robert Enenkel and Silvia Melitta M?ller</li>
-<li><b>A multi-tier federated learning approach to pre-impact fall detection using wearable devices</b><br>Seyed Alireza Rahimi Azghadi, Hung Truong Thanh Nguyen, Ren? Richard, H?l?ne Fournier, Francis Palma and Hung Cao</li>
+<li><b>A Multi-Table Approach to Floating-Point Function Approximation</b><br>Lucas Dutton, Christopher K. Anand, Robert Enenkel and Silvia Melitta Mülleratt</li>
+<li><b>A multi-tier federated learning approach to pre-impact fall detection using wearable devices</b><br>Seyed Alireza Rahimi Azghadi, Hung Truong Thanh Nguyen, René Richard, Hélène Fournier, Francis Palma and Hung Cao</li>
 <li><b>A Study on future emerging technologies and trend detection algorithms using patent big data and AI</b><br>Minki Kim</li>
 <li><b>Addressing Noise in Multiple Instance Learning</b><br>Ahmed Al Dallal, James Miller and Shaikh Quader</li>
 <li><b>AI Assistants for Incident Lifecycle in a Microservice Environment: An Empirical Review</b><br>Dahlia Ziqi Zhou and Marios Fokaefs</li>
@@ -32,7 +32,7 @@ The following posters have been accepted for presentation at CASCON 2024:
 <li><b>Exploring Workforce Needs in Korea's Secondary Battery Industry: Insights and Implications for Talent Development</b><br>Junwoo Yu</li>
 <li><b>FADE: Focused and Attention-Based Detector of Errors</b><br>Omar Al-Shamali, James Miller and Shaikh Quader</li>
 <li><b>GreenStream: Enabling Sustainable LLM Inference in Stream Processing</b><br>Md. Monzurul Amin Ifath and Israat Haque</li>
-<li><b>Identifying and Classifying the Centre of Interests of Non-Verbal Autistic Children in Cartoon Videos</b><br>Roya Moeini and Sylvie Ratt?</li>
+<li><b>Identifying and Classifying the Centre of Interests of Non-Verbal Autistic Children in Cartoon Videos</b><br>Roya Moeini and Sylvie Ratté</li>
 <li><b>Inspiring AI-Infused Innovations in Adoptium AQAvit and Openj9</b><br>Gias Uddin, Afif Mamun, Longyu Zhang and Lan Xia</li>
 <li><b>Mixture of Shared Experts</b><br>Danila Seliayeu, Quinn Pham, Prasanth Chatarasi and Jos&eacute; Nelson Amaral</li>
 <li><b>Modelling Performance and Energy Efficiency of AI and HPC Workloads in Heterogeneous Environments</b><br>Vadim Elisseev, Edward Taylor, Mark Birmingham and James Sexton</li>
