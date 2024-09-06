@@ -1,5 +1,5 @@
 ---
-title: Workshops/Tutorials
+title: Posters
 type: docs
 menu: {main: {weight: 10}}
 ---
@@ -33,7 +33,7 @@ The following posters have been accepted for presentation at CASCON 2024:
 <li><b>GreenStream: Enabling Sustainable LLM Inference in Stream Processing</b><br>Md. Monzurul Amin Ifath and Israat Haque</li>
 <li><b>Identifying and Classifying the Centre of Interests of Non-Verbal Autistic Children in Cartoon Videos</b><br>Roya Moeini and Sylvie Ratt?</li>
 <li><b>Inspiring AI-Infused Innovations in Adoptium AQAvit and Openj9</b><br>Gias Uddin, Afif Mamun, Longyu Zhang and Lan Xia</li>
-<li><b>Mixture of Shared Experts</b><br>Danila Seliayeu, Quinn Pham, Prasanth Chatarasi and Jos? Nelson Amaral</li>
+<li><b>Mixture of Shared Experts</b><br>Danila Seliayeu, Quinn Pham, Prasanth Chatarasi and Jos&eacute; Nelson Amaral</li>
 <li><b>Modelling Performance and Energy Efficiency of AI and HPC Workloads in Heterogeneous Environments</b><br>Vadim Elisseev, Edward Taylor, Mark Birmingham and James Sexton</li>
 <li><b>Online Classification with Reordering  Data Migration Framework</b><br>Zhongxin Hu, Kaiyu Li, Xingjian Mao, Jingfeng Pan, Yunfei Peng, Aijun An, Xiaohui Yu and Dariusz Jania</li>
 <li><b>On-premise z/OS to IBM Cloud: A reference architecture</b><br>Sanjay Ghanathey</li>
@@ -47,7 +47,7 @@ The following posters have been accepted for presentation at CASCON 2024:
 <li><b>Syntactic and Semantic Analysis of APIs to Assess and Compare their Linguistic Design Quality</b><br>Krishno Dey, Hung Cao and Francis Palma</li>
 <li><b>Towards Energy-Efficient CUDA Kernels: A Predictive</b><br>Saurabhsingh Rajput, Alexander Brandt and Tushar Sharma</li>
 <li><b>Towards Rapid Design of Compartmental Models Modeling Approach</b><br>Zahra Fiyouzisabah, Jessie Galasso, Marios-Eleftherios Fokaefs and Michalis Famelis</li>
-<li><b>Triton vs. Halide: Exploring Coupled and Decoupled Machine-Learning Kernel Languages</b><br>Quinn Pham, Danila Seliayeu, Prasanth Chatarasi and Jos? Nelson Amaral</li>
+<li><b>Triton vs. Halide: Exploring Coupled and Decoupled Machine-Learning Kernel Languages</b><br>Quinn Pham, Danila Seliayeu, Prasanth Chatarasi and Jos&eacute; Nelson Amaral</li>
 </ul>
 
  
