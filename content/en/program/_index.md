@@ -40,6 +40,7 @@ menu: {main: {weight: 20}}
            Aveen Ghahremani, Nikita Neveditsin, Adiva Siddiqui and Vijay Mago --- York University, Saint Mary’s University, York University, York University
 	  </td>
     <tr>
+	</tbody>
 </table>
 
 <h1> Papers Accepted for CASCON 2024</h1>
