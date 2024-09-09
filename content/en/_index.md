@@ -8,7 +8,7 @@ title: CASCON 2024
 Second Student Centre, York University
 15 Library Lane, Toronto, Canada
 
-November 11-14, 2024</p>
+November 11-13, 2024</p>
 <!-- {{< blocks/link-down color="info" >}} -->
 {{< /blocks/cover >}}
 
