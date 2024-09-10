@@ -53,7 +53,7 @@ Detailed Program is coming soon.
 
 # CASCON 2024 Program
 
-# November 11 2024
+## November 11 2024
 
 <table>
   <thead>
@@ -74,8 +74,8 @@ Detailed Program is coming soon.
 	  Davood Pirayesh Neghab, Shijie Li, Mucahit Cevik and M. I. M. Wahab --- Toronto Metropolitan University</td>
     </tr>
     <tr>
-      <td>Row 3 Col 1</td>
-      <td>Row 3 Col 2</td>
+      <td>02:20</td>
+      <td><b>Exploring Large Language Models for Automated Essay Grading in Finance Domain</b><br>Garima Malik, Mucahit Cevik and Sojin Lee --- Toronto Metropolitan University, Toronto Metropolitan University, Blees Technologies Inc. (Blees AI)</td>
     </tr>
   </tbody>
 </table>
