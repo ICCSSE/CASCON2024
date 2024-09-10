@@ -80,7 +80,7 @@ Detailed Program is coming soon.
   </tbody>
 </table>
 
-	<table class="program">
+	<table>
 	<tbody>
 		<tr>
 			<td><b>Session 1:</b></td> <td> Chair: Lorem ipsum<td>
