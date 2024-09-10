@@ -63,31 +63,20 @@ Detailed Program is coming soon.
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>01:30</td>
-      <td><b>Integrating Feature Selection in Counterfactual Generation: An Optimized Framework Using Simulated Annealing</b><br>
-	  Shou Nakano and Yang Liu --- Wilfrid Laurier University</td>
-    </tr>
-    <tr>
-      <td>01:55</td>
-      <td><b>Machine Learning-based Control of Dual-Sourcing Inventory Systems</b><br>
-	  Davood Pirayesh Neghab, Shijie Li, Mucahit Cevik and M. I. M. Wahab --- Toronto Metropolitan University</td>
-    </tr>
-    <tr>
-      <td>02:20</td>
-      <td><b>Exploring Large Language Models for Automated Essay Grading in Finance Domain</b><br>Garima Malik, Mucahit Cevik and Sojin Lee --- Toronto Metropolitan University, Toronto Metropolitan University, Blees Technologies Inc. (Blees AI)</td>
-    </tr>
-
-
 <tr><td>01:30</td><td><b>Integrating Feature Selection in Counterfactual Generation: An Optimized Framework Using Simulated Annealing</b><br>Shou Nakano and Yang Liu---Wilfrid Laurier University</td></tr>
 <tr><td>01:55</td><td><b>Machine Learning-based Control of Dual-Sourcing Inventory Systems</b><br>Davood Pirayesh Neghab, Shijie Li, Mucahit Cevik and M. I. M. Wahab---Toronto Metropolitan University</td></tr>
 <tr><td>02:20</td><td><b>Exploring Large Language Models for Automated Essay Grading in Finance Domain</b><br>Garima Malik, Mucahit Cevik and Sojin Lee---Toronto Metropolitan University, Toronto Metropolitan University, Blees Technologies Inc. (Blees AI)</td></tr>
 <tr><td>02:45</td><td><b>Overcoming COPD Care Barriers in Northern Ontario with AI -- A Perspective</b><br>Aveen Ghahremani, Nikita Neveditsin, Adiva Siddiqui and Vijay Mago---York University, Saint Mary’s University, York University, York University</td></tr>
 
+<tr><td>03:00</td><td><b> Coffee Break</d></td></tr>
+
+<tr><td><b>Session 2</b></td><td><b> Chair: TBD</d></td></tr>
 <tr><td>03:20</td><td><b>Detection of Novel Cyberattacks using Multi-Binary Classifiers</b><br>Jean-Gabriel Gaudreault and Paula Branco---University of Ottawa</td></tr>
 <tr><td>03:45</td><td><b>Smart Contract Families in Solidity</b><br>Julio Aguilar, Kacper Bak, Michael Boyle, Valerian Callens and Jan Gorzny---Quantstamp, Quantstamp, Quantstamp, Quantstamp, Zircuit</td></tr>
 <tr><td>04:10</td><td><b>Equation Unsolved: Inside the Shadowy World of Elite Cyber Spies</b><br>Fatemeh Khoda Parast---University of Guelph</td></tr>
 <tr><td>04:35</td><td><b>Optimizing DDoS Detection with Time Series Transformers</b><br>Chibuike Ejikeme, Nafisek Kahani and Samuel Ajila---Carleton University</td></tr>
+
+
 
 <tr><td>10:55</td><td><b>Machine Learning Powered Workload Prediction and Task Offloading in Vehicular Networks</b><br>Pooja Bhardwaj, Nitin Auluck and Akramul Azim---Indian Institute Of Technology–Ropar (IIT–Ropar), Indian Institute Of Technology–Ropar (IIT–Ropar), Ontario Tech University </td></tr>
 <tr><td>11:20</td><td><b>An Adaptive Indoor Localization Approach Using WiFi RSSI Fingerprinting with SLAM-Enabled Robotic Platform and Deep Neural Networks</b><br>Seyed Alireza Rahimi Azghadi, Atah Nuh Mih, Asfia Kawnine, Monica Wachowicz, Francis Palma and Hung Cao---University of New Brunswick, University of New Brunswick, University of New Brunswick, University of New Brunswick, University of New Brunswick, RMIT University</td></tr>
