@@ -7,8 +7,8 @@ menu: {main: {weight: 20}}
 <h2>Monday, November 11, 2024</h2>
 
 
-      !Session 1:|  TBD|
-      |01:30-01:55| Integrating Feature Selection in Counterfactual Generation: An Optimized Framework Using Simulated Annealing</b> <br>
+      |Session 1:|  TBD|
+      |01:30-01:55| <b>Integrating Feature Selection in Counterfactual Generation: An Optimized Framework Using Simulated Annealing</b> <br>
 		   Shou Nakano and Yang Liu --- Wilfrid Laurier University|
 		   
 <!--		   
