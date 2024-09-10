@@ -4,41 +4,7 @@ type: docs
 menu: {main: {weight: 20}}
 ---
 
-<h2>Monday, November 11, 2024</h2>
-
-{{< table >}}
-      |Session 1:|  TBD|
-      |01:30-01:55| **Integrating Feature Selection in Counterfactual Generation: An Optimized Framework Using Simulated Annealing** <br>
-		   Shou Nakano and Yang Liu --- Wilfrid Laurier University|
-{{< table />}}
-		   
-<!--		   
-	  </td>
-    <tr>
-
-	<tr>
-      <td>01:55-02:20</td> 
-	  <td> <b>Machine Learning-based Control of Dual-Sourcing Inventory Systems</b> <br>
-           Davood Pirayesh Neghab, Shijie Li, Mucahit Cevik and M. I. M. Wahab --- Toronto Metropolitan University
-	  </td>
-    <tr>
-	
-	<tr>
-      <td>02:20-02:45</td> 
-	  <td> <b>Node.js Energy Awareness on Asymmetric Multi-Processing Systems</b> <br>
-	       Hao Hu, Kenneth Kent, Joran Siu and Michael Dawson --- University of New Brunswick, IBM Canada, Red Hat Canada</li>
-	  </td>
-    <tr>
-	
-	<tr>
-      <td>02:45-03:00</td> 
-	  <td> <b>Overcoming COPD Care Barriers in Northern Ontario with AI -- A Perspective</b> <br>
-           Aveen Ghahremani, Nikita Neveditsin, Adiva Siddiqui and Vijay Mago --- York University, Saint Mary’s University, York University, York University
-	  </td>
-    <tr>
-	</tbody>
-</table>
--->
+Coming soon.
 
 <h1> Papers Accepted for CASCON 2024</h1>
 
@@ -50,7 +16,7 @@ menu: {main: {weight: 20}}
 <li><b>MemAdapt: Adaptive Monitoring of Memory Usage through Irregularly Sampled Data</b><br>	Pranjal Chakraborty, Majid Babaei, Leila Tahmooresnejad and Naser Ezzati-Jivan<br>	Brock University, McGill University, Brock University, Brock University</li>
 <li><b>Optimizing Data Compression via Data Reordering</b><br>	Qinxin Du, Xiaohui Yu, Aijun An and Dariusz Jania<br>	York University, York University, York University, IBM Poland</li>
 <li><b>Understanding Defects in Generated Codes by Language Models</b><br>	Ali Mohammadi Esfahani, Nafiseh Kahani and Samuel A. Ajila<br>	Carleton University</li>
-
+<li><b>Integrating Feature Selection in Counterfactual Generation: An Optimized Framework Using Simulated Annealing</b><br>	Shou Nakano and Yang Liu<br>	Wilfrid Laurier University</li>
 <li><b>Translating Formal Specs: Event-B to English</b><br>	Fatemeh Kazemi Vanhari<br>	McMaster University</li>
 <li><b>Worst Case Execution Time Analysis of Real-Time Robotic Algorithms using Reinforcement Learning</b><br>	Arvin Samiei, Nafiseh Kahani, Mohammadreza Dehghanitafti and Mojtaba Ahmadi<br>	Carleton University</li>
 <li><b>Spelling Corrector for Turkish Product Search</b><br>	Damla Şentürk, Mustafa Burak Topal, Sevil Adıgüzel, Melis Öztürk and Ayşe Başar<br>	Boğaziçi University, Boğaziçi University, Getir Perakende Lojistik A.Ş, Getir Perakende Lojistik A.Ş, Toronto Metropolitan University</li>
@@ -71,13 +37,14 @@ menu: {main: {weight: 20}}
 <li><b>FaultLLAMA2: A Fine Tuned Large Language Model for Code Recommendations to Reduce Java Lock Contention</b><br>	Ashadullah Shawon, Ramiro Liscano, Akramul Azim, Vijay Sundaresan and Yee-Kang Chang<br>	Ontario Tech University, Ontario Tech University, Ontario Tech University, IBM Toronto Lab, IBM Toronto Lab</li>
 <li><b>CampusGo: Augmented Reality Indoor-Outdoor Navigation through a Campus Digital Twin</b><br>	Mo Adel Abdelghany and Eleni Stroulia<br>	University of Alberta</li>
 <li><b>TriMod Fusion for Multimodal Named Entity Recognition in Social Media</b><br>	Mosab Alfaqeeh<br>	Queen’s University</li>
-<li><b>Node.js Energy Awareness on Asymmetric Multi-Processing Systems</b><br>	Hao Hu, Kenneth Kent, Joran Siu and Michael Dawson <br> University of New Brunswick, IBM Canada, Red Hat Canada</li>
-
+<li><b>Node.js Energy Awareness on Asymmetric Multi-Processing Systems</b><br>	Hao Hu, Kenneth Kent, Joran Siu and Michael Dawson<br>	"University of New Brunswick, IBM Canada, Red Hat
+ Canada</li>"
+<li><b>Machine Learning-based Control of Dual-Sourcing Inventory Systems</b><br>	Davood Pirayesh Neghab, Shijie Li, Mucahit Cevik and M. I. M. Wahab<br>	Toronto Metropolitan University</li>
 <li><b>Optimizing DDoS Detection with Time Series Transformers</b><br>	Chibuike Ejikeme, Nafisek Kahani and Samuel Ajila<br>	Carleton University</li>
 <li><b>Towards Enhancing Aviation Safety through Advanced Incident Analysis using Large Language Models</b><br>	Vaishali Siddeshwar, Akramul Azim, Sanaa Alwidian and Masoud Makrehchi<br>	Ontario Tech University</li>
 <li><b>Transformer-based Text Highlighting for Medical Terms</b><br>	Mucahit Cevik, Ayse Bener and Lara Ozyegen<br>	Toronto Metropolitan University</li>
 <li><b>An Empirical Study on Collaborative Uses of Communication Channels for Software Development and Management</b><br>	Mariam El Mezouar, Daniel Alencar Da Costa and Ying Zou<br>	Royal Military College of Canada, University of Otago, Queen's University</li>
 <li><b>Anaphora Resolution in Software Requirements Engineering: A Comparison of Generative NLP Pipelines and Encoder-Based Models</b><br>	Savas Yildirim, Garima Malik, Mucahit Cevik and Ayse Basar<br>	Toronto Metropolitan University</li>
-
+<li><b>Overcoming COPD Care Barriers in Northern Ontario with AI -- A Perspective</b><br>	Aveen Ghahremani, Nikita Neveditsin, Adiva Siddiqui and Vijay Mago<br>	York University, Saint Mary’s University, York University, York University</li>
 <li><b>Exploring Large Language Models for Automated Essay Grading in Finance Domain</b><br>	Garima Malik, Mucahit Cevik and Sojin Lee<br>	Toronto Metropolitan University, Toronto Metropolitan University, Blees Technologies Inc. (Blees AI)</li>
 </ul>
