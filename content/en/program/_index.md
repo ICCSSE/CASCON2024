@@ -48,3 +48,17 @@ Coming soon.
 <li><b>Overcoming COPD Care Barriers in Northern Ontario with AI -- A Perspective</b><br>	Aveen Ghahremani, Nikita Neveditsin, Adiva Siddiqui and Vijay Mago<br>	York University, Saint Mary’s University, York University, York University</li>
 <li><b>Exploring Large Language Models for Automated Essay Grading in Finance Domain</b><br>	Garima Malik, Mucahit Cevik and Sojin Lee<br>	Toronto Metropolitan University, Toronto Metropolitan University, Blees Technologies Inc. (Blees AI)</li>
 </ul>
+
+	<table class="program">
+	<tbody>
+		<tr>
+			<td><b>Session 1:</b></td> <td> Chair: Lorem ipsum<td>
+		</tr>
+		<tr>
+			<td>10:30 - 10:35</td> <td> dolor sit amet, consectetur </td>
+		</tr>
+		<tr>
+			<td>10:35-11:00</td> <td> <a href="">adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</a> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris n</td>
+		</tr>
+	</tbody>
+	</table>
