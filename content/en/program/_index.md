@@ -4,7 +4,7 @@ type: docs
 menu: {main: {weight: 20}}
 ---
 
-Coming soon.
+Detailed Program is coming soon.
 
 <h1> Papers Accepted for CASCON 2024</h1>
 
@@ -48,6 +48,41 @@ Coming soon.
 <li><b>Overcoming COPD Care Barriers in Northern Ontario with AI -- A Perspective</b><br>	Aveen Ghahremani, Nikita Neveditsin, Adiva Siddiqui and Vijay Mago<br>	York University, Saint Mary’s University, York University, York University</li>
 <li><b>Exploring Large Language Models for Automated Essay Grading in Finance Domain</b><br>	Garima Malik, Mucahit Cevik and Sojin Lee<br>	Toronto Metropolitan University, Toronto Metropolitan University, Blees Technologies Inc. (Blees AI)</li>
 </ul>
+
++++
+title = "My HTML Table Example"
+date = "2023-09-09"
+draft = false
++++
+
+# HTML Table Example
+
+<table>
+  <thead>
+    <tr>
+      <th>Header 1</th>
+      <th>Header 2</th>
+      <th>Header 3</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Row 1 Col 1</td>
+      <td>Row 1 Col 2</td>
+      <td>Row 1 Col 3</td>
+    </tr>
+    <tr>
+      <td>Row 2 Col 1</td>
+      <td>Row 2 Col 2</td>
+      <td>Row 2 Col 3</td>
+    </tr>
+    <tr>
+      <td>Row 3 Col 1</td>
+      <td>Row 3 Col 2</td>
+      <td>Row 3 Col 3</td>
+    </tr>
+  </tbody>
+</table>
 
 	<table class="program">
 	<tbody>
