@@ -65,7 +65,7 @@ Detailed Program is coming soon.
   <tbody>
     <tr>
       <td>01:30-01:55</td>
-      <td>Integrating Feature Selection in Counterfactual Generation: An Optimized Framework Using Simulated Annealing<br>
+      <td><b>Integrating Feature Selection in Counterfactual Generation: An Optimized Framework Using Simulated Annealing</b><br>
 	  <b>Shou Nakano and Yang Liu</b> --- Wilfrid Laurier University</td>
     </tr>
     <tr>
