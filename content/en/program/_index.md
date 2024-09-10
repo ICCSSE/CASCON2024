@@ -129,6 +129,12 @@ Detailed Program is coming soon.
 </table>
 
 	<table>
+	  <thead>
+    <tr>
+      <th>Session 1</th>
+      <th>Chair: TBD</th>
+    </tr>
+  </thead>
 	<tbody>
 		<tr>
 			<td><b>Session 1:</b></td> <td> Chair: Lorem ipsum<td>
