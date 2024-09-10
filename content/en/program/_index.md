@@ -53,7 +53,7 @@ Detailed Program is coming soon.
 
 # CASCON 2024 Program
 
-## November 11 2024
+## Monday, November 11 2024
 
 <table>
   <thead>
@@ -80,7 +80,7 @@ Detailed Program is coming soon.
 </tbody>
 </table>
 
-## November 12 2024
+## Tuesday, November 12 2024
 
 <table>
   <thead>
@@ -116,7 +116,7 @@ Detailed Program is coming soon.
 </tbody>
 </table>
 
-## November 13 2024
+## Wednesday, November 13 2024
 
 <table>
   <thead>
