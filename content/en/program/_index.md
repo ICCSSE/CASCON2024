@@ -104,8 +104,8 @@ menu: {main: {weight: 20}}
 <tr><td>03:20</td><td><b>An Improved Template-based JIT Compiler for Java</b><br>Harpreet Kaur, Marius Pirvu and Kenneth B. Kent --- University of New Brunswick, University of New Brunswick, IBM Canada</td></tr>
 <tr><td>03:45</td><td><b>Language-Agnostic Compilation Scheduling Algorithms for Partial AOT Compilations</b><br>Georgiy Krylov, Gerhard Dueck, Kenneth Kent and Younes Manton --- University of New Brunswick, University of New Brunswick, University of New Brunswick, IBM Canada</td></tr>
 <tr><td>04:10</td><td><b>Using Semeru Cloud Compiler to Enhance Cloud-Native Java Application Performance</b><br>Ryan Liu, Shreya Shinde, Ladan Tahvildari, Mark Stoodley, Vijay Sundaresan and Marius Pirvu --- University of Waterloo, University of Waterloo, University of Waterloo, IBM Centre for Advanced Studies, IBM Centre for Advanced Studies, IBM Centre for Advanced Studies</td></tr>
-"<tr><td>04:35</td><td><b>Node.js Energy Awareness on Asymmetric Multi-Processing Systems</b><br>Hao Hu, Kenneth Kent, Joran Siu and Michael Dawson --- University of New Brunswick, IBM Canada, Red Hat
- Canada</td></tr>"
+<tr><td>04:35</td><td><b>Node.js Energy Awareness on Asymmetric Multi-Processing Systems</b><br>Hao Hu, Kenneth Kent, Joran Siu and Michael Dawson --- University of New Brunswick, IBM Canada, Red Hat
+ Canada</td></tr>
 <tr><td>05:00</td><td><b>Power-Efficient, Accelerated, Exponential-Based Activation Functions</b><br>Kieran Henderson, Christopher K. Anand, Curtis D' Alves, Robert Enenkel and Silvia M Mueller --- McMaster University, McMaster University, IBM Canada, IBM Canada, IBM Germany Development</td></tr>
 <tr><td>05:25</td><td><b>Optimizing Data Compression via Data Reordering</b><br>Qinxin Du, Xiaohui Yu, Aijun An and Dariusz Jania --- York University, York University, York University, IBM Poland</td></tr>
 
