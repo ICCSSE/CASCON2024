@@ -31,7 +31,6 @@ of AI Systems</a> (All Day)</li>
 	<ul>
 		<li> <a href="#ML4DM">ML4DM ‘24: The Fourth Workshop on the Emerging Applications of
 Machine Learning in Modern Data Management</a> (All Day)</li>
-		<li> <a href="#AORCPT">7th Workshop on Advances in Open Runtimes and Cloud Performance Technologies (AORCPT)</a> (All Day)</li>
 		<li> <a href="#SENGEC">1st Workshop on Software Engineering Economics</a> (Morning)</li>
 		<li> <a href="#ClientZero">What Can You Learn from The Story of IBM's "Client Zero" AI Business Transformation</a> (Morning)</li>
 		<li> <a href="#AgileKip">Tutorial: AgileKip PAP - Bridging Business and IT with Open-Source Process Automation</a> (Afternoon)</li>
