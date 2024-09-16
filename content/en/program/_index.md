@@ -78,7 +78,7 @@ menu: {main: {weight: 20}}
       </td>
     </tr>
     <tr>
-      <td>04:10</td>
+      <td>04:00</td>
       <td>
         <strong>Equation Unsolved: Inside the Shadowy World of Elite Cyber Spies</strong><br>
         Fatemeh Khoda Parast<sup>1</sup><br>
@@ -86,11 +86,19 @@ menu: {main: {weight: 20}}
       </td>
     </tr>
     <tr>
-      <td>04:35</td>
+      <td>04:15</td>
       <td>
         <strong>Optimizing DDoS Detection with Time Series Transformers</strong><br>
         Chibuike Ejikeme<sup>1</sup>, Nafisek Kahani<sup>1</sup>, Samuel Ajila<sup>1</sup><br>
         <sup>1</sup>Carleton University
+      </td>
+    </tr>
+	<tr>
+      <td>04:30</td>
+      <td>
+        <strong>Abstract Interpretation for PLONKish Circuits</strong><br>
+        Fatemeh Heidari Soureshjani<sup>1</sup>, Jan Gorzny<sup>2</sup><br>
+        <sup>1</sup>Polytechnique Montreal, <sup>2</sup>Zircuit
       </td>
     </tr>
   </tbody>
@@ -217,14 +225,6 @@ menu: {main: {weight: 20}}
         <strong>MemAdapt: Adaptive Monitoring of Memory Usage through Irregularly Sampled Data</strong><br>
         Pranjal Chakraborty<sup>1</sup>, Majid Babaei<sup>2</sup>, Leila Tahmooresnejad<sup>1</sup>, Naser Ezzati-Jivan<sup>1</sup><br>
         <sup>1</sup>Brock University, <sup>2</sup>McGill University
-      </td>
-    </tr>
-    <tr>
-      <td>05:00</td>
-      <td>
-        <strong>Abstract Interpretation for PLONKish Circuits</strong><br>
-        Fatemeh Heidari Soureshjani<sup>1</sup>, Jan Gorzny<sup>2</sup><br>
-        <sup>1</sup>Polytechnique Montreal, <sup>2</sup>Zircuit
       </td>
     </tr>
   </tbody>
