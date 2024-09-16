@@ -14,8 +14,7 @@ CASCON 2024 will feature the following Workshops and Tutorials:
 	<ul>
 			<li> <a href="#AI@Work">AI in the Workplace (AI@Work)</a> (Morning)</li>
 		<li> <a href="#CyPress2">CyPress: 4th Workshop on Software Techniques for Cyber-Physical Systems</a> (Morning)</li>
-	    <li> <a href="#NatLang">Natural language interfaces powered by large language models</a> (Afternoon)</li>
-		<li> <a href="#AICloud">Tutorial: Develop Explainable AI Services on Cloud Computing and Open Source Models</a> (Morning)</li>
+	   
 	</ul>
 	<li> <b> Tuesday, November 12, 2024 </b> </li>
 	<ul>
@@ -33,8 +32,11 @@ of AI Systems</a> (All Day)</li>
 Machine Learning in Modern Data Management</a> (All Day)</li>
 		<li> <a href="#SENGEC">1st Workshop on Software Engineering Economics</a> (Morning)</li>
 		<li> <a href="#ClientZero">What Can You Learn from The Story of IBM's "Client Zero" AI Business Transformation</a> (Morning)</li>
+				<li> <a href="#AICloud">Tutorial: Develop Explainable AI Services on Cloud Computing and Open Source Models</a> (Morning)</li>
 		<li> <a href="#AgileKip">Tutorial: AgileKip PAP - Bridging Business and IT with Open-Source Process Automation</a> (Afternoon)</li>
 		<li> <a href="#PACOLA">2nd CASCON Workshop on Proactive Continuous Operations using Large Language Models (LLMs) and AIOps: Generative AI as a Catalyst for Innovation</a> (Afternoon)</li>
+		 <li> <a href="#NatLang">Natural language interfaces powered by large language models</a> (Afternoon)</li>
+
 	</ul>
 </ul>
 
@@ -210,35 +212,6 @@ examples of utilizing ML to modernize data management. The
 discussed instances span five categories: Robust Plan Selection,
 Database Knobs Tuning, Data Acquisition, Join Order Selection,
 and Query Plan Representation.
-</p>
-
-<h2> <a name="AORCPT"></a>7th Workshop on Advances in Open Runtimes and Cloud Performance Technologies (AORCPT)</h2>
-
-<p><h3>Abstract:</h3></p>
-
-<p>Cloud services such as IBM Cloud, Microsoft Azure, or Amazon Web Services (AWS) are
-increasingly becoming the environments where applications are developed and deployed,
-data is stored, and businesses are run. Many of the features that define a cloud (such as
-resiliency, elasticity, consistency, security) are realized through runtime technologies.
-Clouds are polyglot environments, and therefore advances in cloud development are
-directly driven by innovation in runtime technologies. However, cloud environments pose
-unique, often conflicting demands on runtime systems that are often less of a concern in
-isolated systems. Throughput performance, footprint and density, startup performance,
-and language interoperability are all important considerations that require innovation to
-solve ePectively.</p>
-
-<p>Modern language runtimes are complex, dynamic environments that involve a myriad of
-runtime components that must work cooperatively to achieve the functional and
-performance requirements of a given language. Cloud workloads are typically
-containerized and employ microservice and serverless architectures. Achieving peak
-performance in such environments requires careful tuning of the cloud services and
-applications in concert with the runtime system.</p>
-
-<p>This speaker workshop will bring together research, industry, and developers from open
-source language runtime, compiler, and cloud communities to share and discuss
-innovations, challenges, and research across a broad set of open technologies (such as
-Eclipse OMR, LLVM, Eclipse OpenJ9, Node.js, Open Liberty, Knative) to improve
-performance in cloud environments.
 </p>
 
 <h2> <a name="SENGEC"></a>1st Workshop on Software Engineering Economics</h2>
