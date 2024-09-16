@@ -14,7 +14,6 @@ CASCON 2024 will feature the following Workshops and Tutorials:
 	<ul>
 			<li> <a href="#AI@Work">AI in the Workplace (AI@Work)</a> (Morning)</li>
 		<li> <a href="#CyPress2">CyPress: 4th Workshop on Software Techniques for Cyber-Physical Systems</a> (Morning)</li>
-	   
 	</ul>
 	<li> <b> Tuesday, November 12, 2024 </b> </li>
 	<ul>
@@ -36,7 +35,6 @@ Machine Learning in Modern Data Management</a> (All Day)</li>
 		<li> <a href="#AgileKip">Tutorial: AgileKip PAP - Bridging Business and IT with Open-Source Process Automation</a> (Afternoon)</li>
 		<li> <a href="#PACOLA">2nd CASCON Workshop on Proactive Continuous Operations using Large Language Models (LLMs) and AIOps: Generative AI as a Catalyst for Innovation</a> (Afternoon)</li>
 		 <li> <a href="#NatLang">Natural language interfaces powered by large language models</a> (Afternoon)</li>
-
 	</ul>
 </ul>
 
