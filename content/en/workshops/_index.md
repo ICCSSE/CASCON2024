@@ -20,7 +20,7 @@ CASCON 2024 will feature the following Workshops and Tutorials:
 		<li> <a href="#ObservExplain">The Workshop of Observability and Explainability
 of AI Systems</a> (All Day)</li>
 		<li> <a href="#iM-PACT">1st Workshop on Intelligent Modeling for Practical Applications and Community Transformation in Life Sciences (iM-PACT)</a> (Morning)</li>
-		<li> <a href="#YTech">YTech: CASCON STEM Outreach Workshop</a> (virtual Zoom event) (Morning).</li>
+		<li> <a href="https://sites.google.com/view/ytech2024">YTech: CASCON STEM Outreach Workshop</a> (virtual Zoom event) (Morning).</li>
 		<li> <a href="#DITA">1st Workshop on Dependable Internet-of-Things Applications (DITA)</a> (Afternoon)</li>
 		<li> <a href="#AI@Work">AI in the Workplace (AI@Work)</a> (Afternoon)</li>
 	</ul>
