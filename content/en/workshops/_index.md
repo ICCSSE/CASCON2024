@@ -22,7 +22,6 @@ of AI Systems</a> (All Day)</li>
 		<li> <a href="#iM-PACT">1st Workshop on Intelligent Modeling for Practical Applications and Community Transformation in Life Sciences (iM-PACT)</a> (Morning)</li>
 		<li> <a href="#YTech">YTech: CASCON STEM Outreach Workshop</a> (virtual Zoom event) (Morning).</li>
 		<li> <a href="#DITA">1st Workshop on Dependable Internet-of-Things Applications (DITA)</a> (Afternoon)</li>
-		<li> <a href="#CyPress2">CyPress: 4th Workshop on Software Techniques for Cyber-Physical Systems</a> (Afternoon)</li>
 		<li> <a href="#AI@Work">AI in the Workplace (AI@Work)</a> (Afternoon)</li>
 	</ul>
 	<li> <b> Wednesday, November 13, 2024 </b> </li>
