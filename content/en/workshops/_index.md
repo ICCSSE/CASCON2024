@@ -9,35 +9,40 @@ CASCON 2024 will feature the following Workshops and Tutorials:
 
 <p><b>Preliminary Schedule Subject to Changes</b></p>
 
-<ul>
-	<li> <b> Monday, November 11, 2024 </b> </li>
-	<ul>
-		<li> <a href="https://sites.google.com/view/cypress2024/">CyPress: 4th Workshop on Software Techniques for Cyber-Physical Systems</a> (Morning)</li>
-	</ul>
-	<li> <b> Tuesday, November 12, 2024 </b> </li>
-	<ul>
-		<li> <a href="https://cdp-workshop.github.io/CDP/">20th Workshop on Compiler-Driven Performance (CDP)</a> (All Day)</li>
-		<li> <a href="#ObservExplain">The Workshop of Observability and Explainability
-of AI Systems</a> (All Day)</li>
-		<li> <a href="#iM-PACT">1st Workshop on Intelligent Modeling for Practical Applications and Community Transformation in Life Sciences (iM-PACT)</a> (Morning)</li>
-		<li> <a href="https://sites.google.com/view/ytech2024">YTech: CASCON STEM Outreach Workshop</a> (virtual Zoom event) (Morning).</li>
-		<li> <a href="#DITA">1st Workshop on Dependable Internet-of-Things Applications (DITA)</a> (Afternoon)</li>
-		<li> <a href="#AI@Work">AI in the Workplace (AI@Work)</a> (Afternoon)</li>
-	</ul>
-	<li> <b> Wednesday, November 13, 2024 </b> </li>
-	<ul>
-		<li> <a href="#ML4DM">ML4DM ‘24: The Fourth Workshop on the Emerging Applications of
-Machine Learning in Modern Data Management</a> (All Day)</li>
-		<li> <a href="#SENGEC">1st Workshop on Software Engineering Economics</a> (Morning)</li>
-		<li> <a href="#ClientZero">What Can You Learn from The Story of IBM's "Client Zero" AI Business Transformation</a> (Morning)</li>
-				<li> <a href="#AICloud">Tutorial: Develop Explainable AI Services on Cloud Computing and Open Source Models</a> (Morning)</li>
-		<li> <a href="#AgileKip">Tutorial: AgileKip PAP - Bridging Business and IT with Open-Source Process Automation</a> (Afternoon)</li>
-		<li> <a href="#PACOLA">2nd CASCON Workshop on Proactive Continuous Operations using Large Language Models (LLMs) and AIOps: Generative AI as a Catalyst for Innovation</a> (Afternoon)</li>
-		 <li> <a href="#NatLang">Natural language interfaces powered by large language models</a> (Afternoon)</li>
-	</ul>
-</ul>
+### Monday, November 11, 2024
 
+| Time | Room | Capacity | Location | Event |
+|------|------|----------|----------|-------|
+| AM   | D2   | 50       | 1st floor| [CyPress: 4th Workshop on Software Techniques for Cyber-Physical Systems](https://sites.google.com/view/cypress2024/) |
 
+<br>
+
+### Tuesday, November 12, 2024
+
+| Time | Room | Capacity | Location | Event |
+|------|------|----------|----------|-------|
+| AM   | Virtual   | n/a  | Zoom | [YTech: CASCON STEM Outreach Workshop](https://sites.google.com/view/ytech2024) |
+| AM   | E2   | 50       | 1st floor| [1st Workshop on Intelligent Modeling for Practical Applications and Community Transformation in Life Sciences (iM-PACT)](#iM-PACT) |
+| All day | C2   | 50       | 1st floor| [20th Workshop on Compiler-Driven Performance (CDP)](https://cdp-workshop.github.io/CDP/) |
+| All day | D2   | 50       | 1st floor| [The Workshop of Observability and Explainability of AI Systems](#ObservExplain) |
+| PM   | E2   | 50       | 1st floor| [1st Workshop on Dependable Internet-of-Things Applications (DITA)](#DITA) |
+| PM   | 344  | 55       | 3rd floor| [AI in the Workplace (AI@Work)](#AI@Work) |
+
+<br>
+
+### Wednesday, November 13, 2024
+
+| Time | Room | Capacity | Location | Event |
+|------|------|----------|----------|-------|
+| All day | B2   | 130      | 1st floor| [ML4DM '24: The Fourth Workshop on the Emerging Applications of Machine Learning in Modern Data Management](#ML4DM) |
+| AM   | E2   | 50       | 1st floor| [1st Workshop on Software Engineering Economics](#SENGEC) |
+| AM   | 344  | 55       | 3rd floor| [Tutorial: Develop Explainable AI Services on Cloud Computing and Open Source Models](#AICloud) |
+| PM   | E2   | 50       | 1st floor| [Tutorial: AgileKip PAP - Bridging Business and IT with Open-Source Process Automation](#AgileKip) |
+| PM   | C2   | 50       | 1st floor| [What Can You Learn from The Story of IBM's "Client Zero" AI Business Transformation](#ClientZero) |
+| PM   | C2   | 50       | 1st floor| [2nd CASCON Workshop on Proactive Continuous Operations using Large Language Models (LLMs) and AIOps: Generative AI as a Catalyst for Innovation](#PACOLA) |
+| PM   | 344  | 55       | 3rd floor| [Natural language interfaces powered by large language models](#NatLang) |
+
+<br>
 
 <h2> <a name="NatLang"></a>Natural language interfaces powered by large language models</h2>
 
