@@ -227,6 +227,11 @@ menu: {main: {weight: 20}}
         <sup>1</sup>Brock University, <sup>2</sup>McGill University
       </td>
     </tr>
+	<tr>
+	<td>05:30</td>
+	<td> <strong>Poster Presentations and Reception</strong>
+	</td>
+	</tr>
   </tbody>
 </table>
 
