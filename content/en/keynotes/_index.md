@@ -3,8 +3,19 @@ title: Keynote Talks
 type: docs
 menu: {main: {weight: 20}}
 ---
+ <img src="EleniStroulia.jpg" border=0 width="100%"
+          alt="Eleni Stroulia"
+          align="center">
 
+<h2>Eleni Stroulia, University of Alberta</h2>
 
+<h1>Machine Learning (and Software Engineering) for Cognitive and Mental-Health Indicator Extraction</h1>
+
+<p>Psychiatric disorders, such as depression, anxiety, and stress, and neurodegenerative diseases, like Alzheimer's Dementia and mild cognitive impairment plague more than one in every eight people in the world today. These conditions impact the individual's language, making their vocal expressions different from those of healthy individuals. This is the key intuition driving research on "Machine Learning from Speech". Our group has been studying this problem, leveraging a variety of datasets spanning psychiatric disorders and neurodegenerative diseases, aiming to decode the intricate nuances embedded within vocal tones. Our methodology incorporates sophisticated audio analysis techniques with traditional and neural network architectures, all implemented in a modular, configurable, repeatable software pipeline. In this presentation, I report on some key outputs of this work and I reflect on the role that software engineering can play in advancing the quality of this line of research.
+</p>
+
+<p>Dr. Eleni Stroulia is a Professor in the Department of Computing Science, at the University of Alberta. From 2011-2016, she held the NSERC/AITF Industrial Research Chair on Service Systems Management, with IBM. Her research focuses on real-world problems and interdisciplinary challenges, using AI and machine-learning methods. She has played leadership roles in the GRAND, AGE-WELL and CFN Networks of Centres of Excellence. In 2018 she received a McCalla professorship, and in 2019 she was recognized with a Killam Award for Excellence in Mentoring. She has supervised more than 60 graduate students and PDFs, who have gone forward to stellar academic and industrial careers. From 2020 to 2023, she was the Director of the University of Alberta's AI4Society Signature Area, and since 2021 she has been serving as the Vice Dean of the Faculty of Science.
+</p>
 
  <img src="BobBlainey.jpg" border=0 width="100%"
           alt="Bob Blainey"
