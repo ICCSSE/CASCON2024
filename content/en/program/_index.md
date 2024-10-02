@@ -114,6 +114,16 @@ menu: {main: {weight: 20}}
     </tr>
   </thead>
   <tbody>
+	<tr>
+      <td colspan="2"><strong>Keynote 1</strong> (Chair: TBD)</td>
+    </tr>
+	<tr>
+ 		<td>8:30</td>
+		<td>
+		<a href=https://cascon.ca/keynotes/#EleniStroulia><strong>Machine Learning (and Software Engineering) for Cognitive and Mental-Health Indicator Extraction</strong><br></a>
+		Eleni Stroulia, University of Alberta
+		</td>
+	</tr>
     <tr>
       <td colspan="2"><strong>Session 3</strong> (Chair: TBD)</td>
     </tr>
