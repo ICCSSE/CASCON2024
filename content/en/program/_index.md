@@ -125,6 +125,10 @@ menu: {main: {weight: 20}}
 		</td>
 	</tr>
     <tr>
+      <td>9:30</td>
+      <td colspan="2">Coffee Break</td>
+    </tr>
+    <tr>
       <td colspan="2"><strong>Session 3</strong> (Chair: TBD)</td>
     </tr>
     <tr>
@@ -255,6 +259,17 @@ menu: {main: {weight: 20}}
     </tr>
   </thead>
   <tbody>
+  	<tr>
+ 		<td>8:30</td>
+		<td>
+		<a href=https://cascon.ca/keynotes/#BobBlainey><strong>Software Delivery Excellence at the Royal Bank of Canada (RBC) – Moving Fast and Not Breaking Things</strong><br></a>
+		Bob Blainey, RBC Fellow
+		</td>
+	</tr>
+    <tr>
+      <td>9:30</td>
+      <td colspan="2">Coffee Break</td>
+    </tr>
     <tr>
       <td colspan="2"><strong>Session 6</strong> (Chair: TBD)</td>
     </tr>
