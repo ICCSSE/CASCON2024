@@ -21,8 +21,8 @@ CASCON attendees are expected to behave in accordance with the <a href="https://
   <li>People who require a visa letter must register for a Full Pass</li>
 </ul>
 
+<!--
 <h2>Registration on or before October 1st, 2024</h2>
-
 <table>
 <tr>
 <td>Student - One Day (No Banquet)</td><td>$125</td>
@@ -43,6 +43,7 @@ CASCON attendees are expected to behave in accordance with the <a href="https://
 <td>Non-Student - Full Pass (Includes Banquet)</td><td>$680</td>
 </tr>
 </table>
+-->
 
 <h2>Registration after October 1st, 2024</h2>
 
