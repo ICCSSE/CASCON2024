@@ -101,7 +101,11 @@ menu: {main: {weight: 20}}
         <sup>1</sup>Polytechnique Montreal, <sup>2</sup>Zircuit
       </td>
     </tr>
-  </tbody>
+	<tr>
+	<td>06:30</td>
+	<td> <strong>Conference Banquet</strong> </td>
+	</tr>
+</tbody>
 </table>
 
 ## Tuesday, November 12 2024
