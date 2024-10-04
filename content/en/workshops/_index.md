@@ -26,7 +26,7 @@ CASCON 2024 will feature the following Workshops and Tutorials:
 | All day | C2   | 50       | 1st floor| [20th Workshop on Compiler-Driven Performance (CDP)](https://cdp-workshop.github.io/CDP/) |
 | All day | D2   | 50       | 1st floor| [The Workshop of Observability and Explainability of AI Systems](https://users.encs.concordia.ca/~abdelw/oxai2024/) |
 | PM   | E2   | 50       | 1st floor| [1st Workshop on Dependable Internet-of-Things Applications (DITA)](#DITA) |
-| PM   | 344  | 55       | 3rd floor| [AI in the Workplace (AI@Work)](#AI@Work) |
+| PM   | 344  | 55       | 3rd floor| [AI in the Workplace (AI@Work)](https://github.com/ICCSSE/CASCON2024/blob/main/content/en/workshops/AI%40Work.pdf) |
 
 <br>
 
