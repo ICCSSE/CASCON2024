@@ -85,8 +85,8 @@ CASCON attendees are expected to behave in accordance with the <a href="https://
 Location: 56 Fine Arts Road, North York, Ontario M3J 1P3<br>
 Paid Parking: Bookable through the HONK app<br>
 Nearest Subway Station: York University<br>
-\ <br>
+ <br>
 Booking:<br>
 Contact the ELC Front Desk at phone: 416-650-8300<br>
 Email: reservations@schulich.yorku.ca<br>
-Youj will need to provide a credit card at time of booking.<br>
+You will need to provide a credit card at time of booking.<br>
