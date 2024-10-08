@@ -79,3 +79,14 @@ CASCON attendees are expected to behave in accordance with the <a href="https://
 
 <p>For parking options close to the venue, please see the <a href="https://www.yorku.ca/parking/parking-rates-permits/daily-rates/">York University Parking Services</a> site.</p>
 
+<h2>Accommodations on campus at York University:</h2>
+
+<p><a href="https://www.acc-schulichexecutiveconferencecentre.com/">Executive Learning Centre at the Schulich School of Business</a><br>
+Location: 56 Fine Arts Road, North York, Ontario M3J 1P3<br>
+Paid Parking: Bookable through the HONK app<br>
+Nearest Subway Station: York University<br>
+\ <br>
+Booking:<br>
+Contact the ELC Front Desk at phone: 416-650-8300<br>
+Email: reservations@schulich.yorku.ca<br>
+Youj will need to provide a credit card at time of booking.<br>
