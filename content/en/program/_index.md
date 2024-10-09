@@ -424,7 +424,7 @@ menu: {main: {weight: 20}}
       <td>05:25</td>
       <td>
         <strong>Optimizing Data Compression via Data Reordering</strong><br>
-		<b>CASCON 2024 Best Student Paper</b><br>
+		<b style="color:#3633FF">CASCON 2024 Best Student Paper</b><br>
         Qinxin Du<sup>1</sup>, Xiaohui Yu<sup>1</sup>, Aijun An<sup>1</sup>, Dariusz Jania<sup>2</sup><br>
         <sup>1</sup>York University, <sup>2</sup>IBM Poland
       </td>
