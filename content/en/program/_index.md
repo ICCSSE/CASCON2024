@@ -135,7 +135,15 @@ menu: {main: {weight: 20}}
     <tr>
       <td colspan="2"><strong>Session 3</strong> (Chair: TBD)</td>
     </tr>
-    <tr>
+	<tr>
+	  <td>10:00</td>
+	  <td> <b> CASCON 2024 Opening Session </b><br>
+	       <b> Presentation of Best-Paper Award, Best-Student-Paper Award, and Most-Influential-Paper (MIP) Award</b><br>
+		   MIP Award Talk: <b>The Power of System Call Traces: Predicting the Software Energy Consumption Impact of Changes</b><br>
+		   Karan Aggarwal<sup1</sup>, Chenlei Zhang, Hazel Campbell<sup>2</sup>, Abram Hindle<sup>2</sup>, Eleni Stroulia<sup>2</sup><br>
+		   <sup>1<sup>Amazon Inc., <sup>2</sup>University of Alberta
+	</tr>
+	<tr>
       <td>10:55</td>
       <td>
         <strong>Machine Learning Powered Workload Prediction and Task Offloading in Vehicular Networks</strong><br>
@@ -392,6 +400,7 @@ menu: {main: {weight: 20}}
       <td>
         <strong>Using Semeru Cloud Compiler to Enhance Cloud-Native Java Application Performance</strong><br>
         Ryan Liu<sup>1</sup>, Shreya Shinde<sup>1</sup>, Ladan Tahvildari<sup>1</sup>, Mark Stoodley<sup>2</sup>, Vijay Sundaresan<sup>2</sup>, Marius Pirvu<sup>2</sup><br>
+		<b> CASCON 2024 Best Paper</b><br>
         <sup>1</sup>University of Waterloo, <sup>2</sup>IBM Centre for Advanced Studies
       </td>
     </tr>
@@ -415,6 +424,7 @@ menu: {main: {weight: 20}}
       <td>05:25</td>
       <td>
         <strong>Optimizing Data Compression via Data Reordering</strong><br>
+		<b>CASCON 2024 Best Student Paper</b><br>
         Qinxin Du<sup>1</sup>, Xiaohui Yu<sup>1</sup>, Aijun An<sup>1</sup>, Dariusz Jania<sup>2</sup><br>
         <sup>1</sup>York University, <sup>2</sup>IBM Poland
       </td>
