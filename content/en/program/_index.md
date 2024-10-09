@@ -141,7 +141,7 @@ menu: {main: {weight: 20}}
 	       <b> Presentation of Best-Paper Award, Best-Student-Paper Award, and Most-Influential-Paper (MIP) Award</b><br>
 		   MIP Award Talk: <b>The Power of System Call Traces: Predicting the Software Energy Consumption Impact of Changes</b><br>
 		   Karan Aggarwal<sup1</sup>, Chenlei Zhang, Hazel Campbell<sup>2</sup>, Abram Hindle<sup>2</sup>, Eleni Stroulia<sup>2</sup><br>
-		   <sup>1<sup>Amazon Inc., <sup>2</sup>University of Alberta
+		   <sup>1</sup>Amazon Inc., <sup>2</sup>University of Alberta
 	</tr>
 	<tr>
       <td>10:55</td>
