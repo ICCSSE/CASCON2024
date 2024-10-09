@@ -399,8 +399,8 @@ menu: {main: {weight: 20}}
       <td>04:10</td>
       <td>
         <strong>Using Semeru Cloud Compiler to Enhance Cloud-Native Java Application Performance</strong><br>
+		<b style="color:#3633FF"> CASCON 2024 Best Paper</b><br>		
         Ryan Liu<sup>1</sup>, Shreya Shinde<sup>1</sup>, Ladan Tahvildari<sup>1</sup>, Mark Stoodley<sup>2</sup>, Vijay Sundaresan<sup>2</sup>, Marius Pirvu<sup>2</sup><br>
-		<b> CASCON 2024 Best Paper</b><br>
         <sup>1</sup>University of Waterloo, <sup>2</sup>IBM Centre for Advanced Studies
       </td>
     </tr>
