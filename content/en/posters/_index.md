@@ -6,7 +6,8 @@ menu: {main: {weight: 10}}
 
 {{% blocks/section color="white" %}}
 <strong>The Poster presentation and reception will be on Tuesday, November 12, starting at 5:30 PM</strong><br>
-The following posters have been accepted for presentation at CASCON 2024:
+The maximum area available for each poster is 3 feet wide and 4 feet tall.<br>
+The following posters have been accepted for presentation at CASCON 2024.
 
 <ul>
 <li><b>2JITsu: A Comparative Analysis of JAX and Pytorch across Modern Machine Learning Workloads</b><br>Ayrton Chilibeck, Danila Seliayeu, Jose Nelson Amaral and Andy Patterson</li>
