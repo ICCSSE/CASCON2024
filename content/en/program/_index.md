@@ -11,13 +11,15 @@ menu: {main: {weight: 20}}
 - [Wednesday, November 13 2024](#wednesday-november-13-2024)
 
 ## Full Program Schedule
-<div id="program-schedule-printable">
+<div id="program-schedule-printable" style="text-align: center;">
   <style media=print>
     .program-schedule-table {
       border-collapse: collapse;
+      text-align: centre;
     }
     .program-schedule-table, .program-schedule-table th, .program-schedule-table td {
       border: 1px solid black;
+      text-align: centre;
     }
   </style>
   <table class="program-schedule-table">
