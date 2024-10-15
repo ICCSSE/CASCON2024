@@ -5,9 +5,61 @@ menu: {main: {weight: 20}}
 ---
 
 ### Quick Links
+- [Full Program Schedule](#full-program-schedule)
 - [Monday, November 11 2024](#monday-november-11-2024)
 - [Tuesday, November 12 2024](#tuesday-november-12-2024)
 - [Wednesday, November 13 2024](#wednesday-november-13-2024)
+
+## Full Program Schedule
+<div id="program-schedule-printable">
+  <style media=print>
+    .program-schedule-table {
+      border-collapse: collapse;
+    }
+    .program-schedule-table, .program-schedule-table th, .program-schedule-table td {
+      border: 1px solid black;
+    }
+  </style>
+  <table class="program-schedule-table">
+    <thead>
+      <tr><th>Day</th><th>Time</th><th>Room</th><th>Capacity</th><th>Location</th><th>Event</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>Monday</td><td>All day</td><td>B2</td><td>130</td><td>1st floor</td><td>CSER</td></tr>
+      <tr><td></td><td>All day</td><td>A2</td><td>50</td><td>1st floor</td><td>NCC-CNC</td></tr>
+      <tr><td></td><td>All day</td><td>C2</td><td>50</td><td>1st floor</td><td>CAN-DB</td></tr>
+      <tr><td></td><td>AM</td><td>D2</td><td>50</td><td>1st floor</td><td>Cypress</td></tr>
+      <tr><td></td><td>AM</td><td>301</td><td>10</td><td>3rd floor</td><td>NCC-CNC</td></tr>
+      <tr><td></td><td>PM</td><td>D2</td><td>50</td><td>1st floor</td><td>CASCON</td></tr>
+      <tr><td>Tuesday</td><td>AM</td><td>B2</td><td>130</td><td>1st floor</td><td>CS-Can Chairs meeting</td></tr>
+      <tr><td></td><td>AM</td><td>Virtual</td><td>n/a</td><td>Zoom</td><td>YTech</td></tr>
+      <tr><td></td><td>All day</td><td>A2</td><td>50</td><td>1st floor</td><td>CASCON</td></tr>
+      <tr><td></td><td>AM</td><td>E2</td><td>50</td><td>1st floor</td><td>iM-PACT</td></tr>
+      <tr><td></td><td>All day</td><td>C2</td><td>50</td><td>1st floor</td><td>CDP</td></tr>
+      <tr><td></td><td>All day</td><td>D2</td><td>50</td><td>1st floor</td><td>Observability/Explainability</td></tr>
+      <tr><td></td><td>PM</td><td>E2</td><td>50</td><td>1st floor</td><td>DITA</td></tr>
+      <tr><td></td><td>PM</td><td>344</td><td>55</td><td>3rd floor</td><td>AI@Work</td></tr>
+      <tr><td>Wednesday</td><td>All day</td><td>B2</td><td>130</td><td>1st floor</td><td>ML4DM</td></tr>
+      <tr><td></td><td>AM</td><td>A2</td><td>50</td><td>1st floor</td><td>CASCON</td></tr>
+      <tr><td></td><td>AM</td><td>E2</td><td>50</td><td>1st floor</td><td>SENGEC</td></tr>
+      <tr><td></td><td>AM</td><td>344</td><td>55</td><td>3rd floor</td><td>AI Service on Cloud</td></tr>
+      <tr><td></td><td>PM</td><td>E2</td><td>50</td><td>1st floor</td><td>AgileKip</td></tr>
+      <tr><td></td><td>PM</td><td>C2</td><td>50</td><td>1st floor</td><td>Client Zero</td></tr>
+      <tr><td></td><td>PM</td><td>C2</td><td>50</td><td>1st floor</td><td>PACOLA</td></tr>
+      <tr><td></td><td>PM</td><td>344</td><td>55</td><td>3rd floor</td><td>Natural Language</td></tr>
+    </tbody>
+  </table>
+</div>
+<button onclick="printSchedule()" class="print-button" style="background-color: #007bff; color: white; padding: 10px 20px; border: none; border-radius: 20px; cursor: pointer; font-size: 16px; font-weight: bold; margin: 10px 0; display: block; text-align: center; text-decoration: none; transition: background-color 0.2s; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); margin: auto;"><i class="fa fa-print" style="margin-right: 8px;"></i> Print Program Schedule</button>
+<script>
+  function printSchedule() {
+    var printContents = document.getElementById('program-schedule-printable').innerHTML;
+    var originalContents = document.body.innerHTML;
+    document.body.innerHTML = printContents;
+    window.print();
+    document.body.innerHTML = originalContents;
+  }
+</script>
 
 ## Monday, November 11 2024
 
@@ -93,7 +145,7 @@ menu: {main: {weight: 20}}
         <sup>1</sup>Carleton University
       </td>
     </tr>
-	<tr>
+  <tr>
       <td>04:30</td>
       <td>
         <strong>Abstract Interpretation for PLONKish Circuits</strong><br>
@@ -101,10 +153,10 @@ menu: {main: {weight: 20}}
         <sup>1</sup>Polytechnique Montreal, <sup>2</sup>Zircuit
       </td>
     </tr>
-	<tr>
-	<td>06:30</td>
-	<td> <strong>Conference Banquet</strong> </td>
-	</tr>
+  <tr>
+  <td>06:30</td>
+  <td> <strong>Conference Banquet</strong> </td>
+  </tr>
 </tbody>
 </table>
 
@@ -118,16 +170,16 @@ menu: {main: {weight: 20}}
     </tr>
   </thead>
   <tbody>
-	<tr>
+  <tr>
       <td colspan="2"><strong>Keynote 1</strong> (Chair: TBD)</td>
     </tr>
-	<tr>
- 		<td>8:30</td>
-		<td>
-		<a href=https://cascon.ca/keynotes/#EleniStroulia><strong>Machine Learning (and Software Engineering) for Cognitive and Mental-Health Indicator Extraction</strong><br></a>
-		Eleni Stroulia, University of Alberta
-		</td>
-	</tr>
+  <tr>
+     <td>8:30</td>
+    <td>
+    <a href=https://cascon.ca/keynotes/#EleniStroulia><strong>Machine Learning (and Software Engineering) for Cognitive and Mental-Health Indicator Extraction</strong><br></a>
+    Eleni Stroulia, University of Alberta
+    </td>
+  </tr>
     <tr>
       <td>9:30</td>
       <td colspan="2">Coffee Break</td>
@@ -253,11 +305,11 @@ menu: {main: {weight: 20}}
         <sup>1</sup>Brock University, <sup>2</sup>McGill University
       </td>
     </tr>
-	<tr>
-	<td>05:30</td>
-	<td> <strong>Poster Presentations and Reception</strong>
-	</td>
-	</tr>
+  <tr>
+  <td>05:30</td>
+  <td> <strong>Poster Presentations and Reception</strong>
+  </td>
+  </tr>
   </tbody>
 </table>
 
@@ -271,13 +323,13 @@ menu: {main: {weight: 20}}
     </tr>
   </thead>
   <tbody>
-  	<tr>
- 		<td>8:30</td>
-		<td>
-		<a href=https://cascon.ca/keynotes/#BobBlainey><strong>Software Delivery Excellence at the Royal Bank of Canada (RBC) – Moving Fast and Not Breaking Things</strong><br></a>
-		Bob Blainey, RBC Fellow
-		</td>
-	</tr>
+    <tr>
+     <td>8:30</td>
+    <td>
+    <a href=https://cascon.ca/keynotes/#BobBlainey><strong>Software Delivery Excellence at the Royal Bank of Canada (RBC) – Moving Fast and Not Breaking Things</strong><br></a>
+    Bob Blainey, RBC Fellow
+    </td>
+  </tr>
     <tr>
       <td>9:30</td>
       <td colspan="2">Coffee Break</td>
