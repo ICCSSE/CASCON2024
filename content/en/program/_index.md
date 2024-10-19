@@ -4,6 +4,8 @@ type: docs
 menu: {main: {weight: 20}}
 ---
 
+ <link href="CASCONProgramTable.htm" rel="import" />
+ 
 ### Quick Links
 - [Full Program Schedule](#full-program-schedule)
 - [Monday, November 11 2024](#monday-november-11-2024)
@@ -22,7 +24,7 @@ menu: {main: {weight: 20}}
       text-align: centre;
     }
   </style>
-  <link href="CASCONProgramTable.htm" rel="import" />
+ 
   <table class="program-schedule-table">
     <thead>
       <tr><th>Day</th><th>Time</th><th>Room</th><th>Capacity</th><th>Location</th><th>Event</th></tr>
