@@ -24,9 +24,9 @@ CASCON 2024 will feature the following Workshops and Tutorials:
 | AM   | Virtual   | n/a  | Zoom | [YTech: CASCON STEM Outreach Workshop](https://sites.google.com/view/ytech2024) |
 | AM   | E2   | 50       | 1st floor| [1st Workshop on Intelligent Modeling for Practical Applications and Community Transformation in Life Sciences (iM-PACT)](#iM-PACT) |
 | All day | C2   | 50       | 1st floor| [20th Workshop on Compiler-Driven Performance (CDP)](https://cdp-workshop.github.io/CDP/) |
-| All day | D2   | 50       | 1st floor| [The Workshop of Observability and Explainability of AI Systems](https://users.encs.concordia.ca/~abdelw/oxai2024/) |
+| AM   | D2   | 50       | 1st floor| [The Workshop of Observability and Explainability of AI Systems (OXAI)](https://users.encs.concordia.ca/~abdelw/oxai2024/) |
 | PM   | E2   | 50       | 1st floor| [1st Workshop on Dependable Internet-of-Things Applications (DITA)](#DITA) |
-| PM   | 344  | 55       | 3rd floor| [AI in the Workplace (AI@Work)](https://github.com/ICCSSE/CASCON2024/blob/main/content/en/workshops/AI%40Work.pdf) |
+| PM   | D2   | 55       | 3rd floor| [AI in the Workplace (AI@Work)](https://github.com/ICCSSE/CASCON2024/blob/main/content/en/workshops/AI%40Work.pdf) |
 
 <br>
 
@@ -39,7 +39,7 @@ CASCON 2024 will feature the following Workshops and Tutorials:
 | AM   | 344  | 55       | 3rd floor| [Tutorial: Develop Explainable AI Services on Cloud Computing and Open Source Models](https://github.com/ZeruiW/CASCON24_Tutorial-Workshop_XAI/blob/main/Develop%20Explainable%20AI%20Services%20on%20Cloud%20Computing%20and%20Open%20Source%20Models.md) |
 | PM   | E2   | 50       | 1st floor| [Tutorial: AgileKip PAP - Bridging Business and IT with Open-Source Process Automation](#AgileKip) |
 | PM   | C2   | 50       | 1st floor| [What Can You Learn from The Story of IBM's "Client Zero" AI Business Transformation](#ClientZero) |
-| PM   | C2   | 50       | 1st floor| [2nd CASCON Workshop on Proactive Continuous Operations using Large Language Models (LLMs) and AIOps: Generative AI as a Catalyst for Innovation](#PACOLA) |
+| PM   | C2   | 50       | 1st floor| [2nd CASCON Workshop on Proactive Continuous Operations using Large Language Models (LLMs) and AIOps: Generative AI as a Catalyst for Innovation (PACOLA)](#PACOLA) |
 | PM   | 344  | 55       | 3rd floor| [Natural language interfaces powered by large language models](#NatLang) |
 
 <br>

@@ -38,9 +38,9 @@ menu: {main: {weight: 20}}
       <tr><td></td><td>All day</td><td>A2</td><td>50</td><td>1st floor</td><td>CASCON</td></tr>
       <tr><td></td><td>AM</td><td>E2</td><td>50</td><td>1st floor</td><td>iM-PACT</td></tr>
       <tr><td></td><td>All day</td><td>C2</td><td>50</td><td>1st floor</td><td>CDP</td></tr>
-      <tr><td></td><td>All day</td><td>D2</td><td>50</td><td>1st floor</td><td>Observability/Explainability</td></tr>
+      <tr><td></td><td>AM</td><td>D2</td><td>50</td><td>1st floor</td><td>OXAI</td></tr>
       <tr><td></td><td>PM</td><td>E2</td><td>50</td><td>1st floor</td><td>DITA</td></tr>
-      <tr><td></td><td>PM</td><td>344</td><td>55</td><td>3rd floor</td><td>AI@Work</td></tr>
+      <tr><td></td><td>PM</td><td>D2</td><td>55</td><td>3rd floor</td><td>AI@Work</td></tr>
       <tr><td>Wednesday</td><td>All day</td><td>B2</td><td>130</td><td>1st floor</td><td>ML4DM</td></tr>
       <tr><td></td><td>AM</td><td>A2</td><td>50</td><td>1st floor</td><td>CASCON</td></tr>
       <tr><td></td><td>AM</td><td>E2</td><td>50</td><td>1st floor</td><td>SENGEC</td></tr>
@@ -74,7 +74,7 @@ menu: {main: {weight: 20}}
   </thead>
   <tbody>
     <tr>
-      <td colspan="2"><strong>Session 1</strong> (Chair: TBD)</td>
+      <td colspan="2"><strong>Session 1</strong> (Chair: TBD)</td><a name="CASCON1">
     </tr>
     <tr>
       <td>01:30</td>
@@ -113,7 +113,7 @@ menu: {main: {weight: 20}}
       <td colspan="2">Coffee Break</td>
     </tr>
     <tr>
-      <td colspan="2"><strong>Session 2</strong> (Chair: TBD)</td>
+      <td colspan="2"><strong>Session 2</strong> (Chair: TBD)</td><a name="CASCON2">
     </tr>
     <tr>
       <td>03:20</td>
