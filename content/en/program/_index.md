@@ -22,6 +22,7 @@ menu: {main: {weight: 20}}
       text-align: centre;
     }
   </style>
+  <link href="CASCONProgramTable.htm" rel="import" />
   <table class="program-schedule-table">
     <thead>
       <tr><th>Day</th><th>Time</th><th>Room</th><th>Capacity</th><th>Location</th><th>Event</th></tr>
@@ -187,7 +188,7 @@ menu: {main: {weight: 20}}
       <td colspan="2">Coffee Break</td>
     </tr>
     <tr>
-      <td colspan="2"><strong>Session 3</strong> (Chair: TBD)</td>
+      <td colspan="2"><strong>Session 3</strong> (Chair: TBD) <a name="CASCON3"></td>
     </tr>
 	<tr>
 	  <td>10:00</td>
@@ -234,7 +235,7 @@ menu: {main: {weight: 20}}
       <td colspan="2">Lunch</td>
     </tr>
     <tr>
-      <td colspan="2"><strong>Session 4</strong> (Chair: TBD)</td>
+      <td colspan="2"><strong>Session 4</strong> (Chair: TBD) <a name="CASCON4"></td>
     </tr>
     <tr>
       <td>1:30</td>
@@ -273,7 +274,7 @@ menu: {main: {weight: 20}}
       <td colspan="2">Coffee Break</td>
     </tr>
     <tr>
-      <td colspan="2"><strong>Session 5</strong> (Chair: TBD)</td>
+      <td colspan="2"><strong>Session 5</strong> (Chair: TBD) <a name="CASCON5"></td>
     </tr>
     <tr>
       <td>3:20</td>
@@ -337,7 +338,7 @@ menu: {main: {weight: 20}}
       <td colspan="2">Coffee Break</td>
     </tr>
     <tr>
-      <td colspan="2"><strong>Session 6</strong> (Chair: TBD)</td>
+      <td colspan="2"><strong>Session 6</strong> (Chair: TBD) <a name="CASCON6"></td>
     </tr>
     <tr>
       <td>10:00</td>
@@ -392,7 +393,7 @@ menu: {main: {weight: 20}}
       <td colspan="2">Lunch</td>
     </tr>
     <tr>
-      <td colspan="2"><strong>Session 7</strong> (Chair: TBD)</td>
+      <td colspan="2"><strong>Session 7</strong> (Chair: TBD) <a name="CASCON7"></td>
     </tr>
     <tr>
       <td>01:30</td>
@@ -431,7 +432,7 @@ menu: {main: {weight: 20}}
       <td colspan="2">Coffee Break</td>
     </tr>
     <tr>
-      <td colspan="2"><strong>Session 8</strong> (Chair: TBD)</td>
+      <td colspan="2"><strong>Session 8</strong> (Chair: TBD) <a name="CASCON8"></td>
     </tr>
     <tr>
       <td>03:20</td>
