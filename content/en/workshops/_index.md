@@ -24,9 +24,9 @@ CASCON 2024 will feature the following Workshops and Tutorials:
 | AM   | Virtual   | n/a  | [YTech: CASCON STEM Outreach Workshop](https://sites.google.com/view/ytech2024) |
 | AM   | E2   | 50       | [1st Workshop on Intelligent Modeling for Practical Applications and Community Transformation in Life Sciences (iM-PACT)](#iM-PACT) |
 | All day | C2   | 50       | [20th Workshop on Compiler-Driven Performance (CDP)](https://cdp-workshop.github.io/CDP/) |
-| AM   | D2   | 50       | [The Workshop of Observability and Explainability of AI Systems (OXAI)](https://users.encs.concordia.ca/~abdelw/oxai2024/) |
+| All Day   | D2   | 50       | [The Workshop of Observability and Explainability of AI Systems (OXAI)](https://users.encs.concordia.ca/~abdelw/oxai2024/) |
 | PM   | E2   | 50       | [1st Workshop on Dependable Internet-of-Things Applications (DITA)](#DITA) |
-| PM   | D2   | 55       | [AI in the Workplace (AI@Work)](https://github.com/ICCSSE/CASCON2024/blob/main/content/en/workshops/AI%40Work.pdf) |
+| PM   | 344   | 55       | [AI in the Workplace (AI@Work)](https://github.com/ICCSSE/CASCON2024/blob/main/content/en/workshops/AI%40Work.pdf) |
 
 <br>
 
