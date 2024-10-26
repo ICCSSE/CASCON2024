@@ -14,8 +14,6 @@ menu: {main: {weight: 20}}
 
 ![CASCON Program Table](CASCONProgramTable.jpg)
 
-[![CASCON Program Table](CASCONProgramTable.jpg)](CASCONProgramTable.htm)
-
 ## Full Program Schedule
 <div id="program-schedule-printable" style="text-align: center;">
   <style media=print>
@@ -36,7 +34,7 @@ menu: {main: {weight: 20}}
     <tbody>
       <tr><td>Monday</td><td>All day</td><td>B2</td><td>130</td><td>1st floor</td><td>CSER</td></tr>
       <tr><td></td><td>All day</td><td>A2</td><td>50</td><td>1st floor</td><td>NCC-CNC</td></tr>
-      <tr><td></td><td>All day</td><td>C2</td><td>50</td><td>1st floor</td><td>CAN-DB</td></tr>
+      <tr><td></td><td>All day</td><td>C2</td><td>50</td><td>1st floor</td><td><a href="https://sites.google.com/view/dsds-24">DSDS</a></td></tr>
       <tr><td></td><td>AM</td><td>D2</td><td>50</td><td>1st floor</td><td>Cypress</td></tr>
       <tr><td></td><td>AM</td><td>301</td><td>10</td><td>3rd floor</td><td>NCC-CNC</td></tr>
       <tr><td></td><td>PM</td><td>D2</td><td>50</td><td>1st floor</td><td>CASCON</td></tr>
