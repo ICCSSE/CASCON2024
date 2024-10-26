@@ -16,12 +16,6 @@ menu: {main: {weight: 20}}
 
 [![CASCON Program Table](CASCONProgramTable.jpg)](CASCONProgramTable.htm)
 
-       <a href="CASCONProgramTable.htm">
-          <img src="CASCONProgramTable.jpg" border=0
-               alt="CASCON Program Table"
-               align="center" width="100%"
-               align="right"> </a>
-			   
 ## Full Program Schedule
 <div id="program-schedule-printable" style="text-align: center;">
   <style media=print>
