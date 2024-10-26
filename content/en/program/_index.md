@@ -12,6 +12,8 @@ menu: {main: {weight: 20}}
 - [Tuesday, November 12 2024](#tuesday-november-12-2024)
 - [Wednesday, November 13 2024](#wednesday-november-13-2024)
 
+![CASCON Program Table](CASCONProgramTable.jpg)
+
        <a href="CASCONProgramTable.htm">
           <img src="CASCONProgramTable.jpg" border=0
                alt="CASCON Program Table"
