@@ -7,7 +7,9 @@ menu: {main: {weight: 10}}
 {{% blocks/section color="white" %}}
 CASCON 2024 will feature the following Workshops and Tutorials:
 
-<p><b>Preliminary Schedule Subject to Changes</b></p>
+<p><b>Schedule</b></p>
+
+![CASCON Program Table](CASCONProgramTable.jpg)
 
 ### Monday, November 11, 2024
 
