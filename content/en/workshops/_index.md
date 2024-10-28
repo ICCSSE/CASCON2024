@@ -37,7 +37,7 @@ CASCON 2024 will feature the following Workshops and Tutorials:
 | Time | Room | Capacity | Event |
 |------|------|----------|-------|
 | All day | B2   | 130      | [ML4DM '24: The Fourth Workshop on the Emerging Applications of Machine Learning in Modern Data Management](#ML4DM) |
-| AM   | E2   | 50       | [1st Workshop on Software Engineering Economics](#SENGEC) |
+| AM   | E2   | 50       | [1st Workshop on Software Engineering Economics](https://yorku-ease.github.io/SENGEC/index.html) |
 | AM   | D2   | 55       | [Tutorial: Develop Explainable AI Services on Cloud Computing and Open Source Models](https://github.com/ZeruiW/CASCON24_Tutorial-Workshop_XAI/blob/main/Develop%20Explainable%20AI%20Services%20on%20Cloud%20Computing%20and%20Open%20Source%20Models.md) |
 | PM   | E2   | 50       | [Tutorial: AgileKip PAP - Bridging Business and IT with Open-Source Process Automation](#AgileKip) |
 | PM   | C2   | 50       | [What Can You Learn from The Story of IBM's "Client Zero" AI Business Transformation](#ClientZero) |
