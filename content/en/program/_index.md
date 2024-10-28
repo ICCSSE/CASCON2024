@@ -32,28 +32,28 @@ menu: {main: {weight: 20}}
       <tr><th>Day</th><th>Time</th><th>Room</th><th>Capacity</th><th>Location</th><th>Event</th></tr>
     </thead>
     <tbody>
-      <tr><td>Monday</td><td>All day</td><td>B2</td><td>130</td><td>1st floor</td><td>CSER</td></tr>
-      <tr><td></td><td>All day</td><td>A2</td><td>50</td><td>1st floor</td><td>NCC-CNC</td></tr>
+      <tr><td>Monday</td><td>All day</td><td>B2</td><td>130</td><td>1st floor</td><td><a href="https://www.cser.ca/2024f/">CSER</a></td></tr>
+      <tr><td></td><td>All day</td><td>A2</td><td>50</td><td>1st floor</td><td><a href="https://ncc-cnc.ca/">NCC-CNC</a></td></tr>
       <tr><td></td><td>All day</td><td>C2</td><td>50</td><td>1st floor</td><td><a href="https://sites.google.com/view/dsds-24">DSDS</a></td></tr>
-      <tr><td></td><td>AM</td><td>D2</td><td>50</td><td>1st floor</td><td>Cypress</td></tr>
-      <tr><td></td><td>AM</td><td>301</td><td>10</td><td>3rd floor</td><td>NCC-CNC</td></tr>
-      <tr><td></td><td>PM</td><td>D2</td><td>50</td><td>1st floor</td><td>CASCON</td></tr>
-      <tr><td>Tuesday</td><td>AM</td><td>B2</td><td>130</td><td>1st floor</td><td>CS-Can Chairs meeting</td></tr>
-      <tr><td></td><td>AM</td><td>Virtual</td><td>n/a</td><td>Zoom</td><td>YTech</td></tr>
-      <tr><td></td><td>All day</td><td>A2</td><td>50</td><td>1st floor</td><td>CASCON</td></tr>
-      <tr><td></td><td>AM</td><td>E2</td><td>50</td><td>1st floor</td><td>iM-PACT</td></tr>
-      <tr><td></td><td>All day</td><td>C2</td><td>50</td><td>1st floor</td><td>CDP</td></tr>
-      <tr><td></td><td>AM</td><td>D2</td><td>50</td><td>1st floor</td><td>OXAI</td></tr>
-      <tr><td></td><td>PM</td><td>E2</td><td>50</td><td>1st floor</td><td>DITA</td></tr>
+      <tr><td></td><td>AM</td><td>D2</td><td>50</td><td>1st floor</td><td><a href="https://sites.google.com/view/cypress2024/">Cypress</a></td></tr>
+      <tr><td></td><td>AM</td><td>301</td><td>10</td><td>3rd floor</td><td><a href="https://ncc-cnc.ca/">NCC-CNC</a></td></td></tr>
+      <tr><td></td><td>PM</td><td>D2</td><td>50</td><td>1st floor</td><td><a href="https://cascon.ca/program/#CASCON1">CASCON</a></td></tr>
+      <tr><td>Tuesday</td><td>AM</td><td>B2</td><td>130</td><td>1st floor</td><td><a href="https://cscan-infocan.ca/department-chairs-meeting/">CS-Can Chairs meeting</a></td></tr>
+      <tr><td></td><td>AM</td><td>Virtual</td><td>n/a</td><td>Zoom</td><td><a href="https://sites.google.com/view/ytech2024">YTech</a></td></tr>
+      <tr><td></td><td>All day</td><td>A2</td><td>50</td><td>1st floor</td><td><a href="https://cascon.ca/program/#CASCON3">CASCON</a></td></td></tr>
+      <tr><td></td><td>AM</td><td>E2</td><td>50</td><td>1st floor</td><td><a href="https://cascon.ca/workshops/#iM-PACT">iM-PACT</a></td></tr>
+      <tr><td></td><td>All day</td><td>C2</td><td>50</td><td>1st floor</td><td><a href="https://cdp-workshop.github.io/CDP/">CDP</a></td></tr>
+      <tr><td></td><td>AM</td><td>D2</td><td>50</td><td>1st floor</td><td><a href="https://users.encs.concordia.ca/~abdelw/oxai2024/">OXAI</a></td></tr>
+      <tr><td></td><td>PM</td><td>E2</td><td>50</td><td>1st floor</td><td><a href="https://users.encs.concordia.ca/~abdelw/oxai2024/">DITA</a></td></tr>
       <tr><td></td><td>PM</td><td>D2</td><td>55</td><td>3rd floor</td><td>AI@Work</td></tr>
-      <tr><td>Wednesday</td><td>All day</td><td>B2</td><td>130</td><td>1st floor</td><td>ML4DM</td></tr>
-      <tr><td></td><td>AM</td><td>A2</td><td>50</td><td>1st floor</td><td>CASCON</td></tr>
-      <tr><td></td><td>AM</td><td>E2</td><td>50</td><td>1st floor</td><td>SENGEC</td></tr>
-      <tr><td></td><td>AM</td><td>344</td><td>55</td><td>3rd floor</td><td>AI Service on Cloud</td></tr>
-      <tr><td></td><td>PM</td><td>E2</td><td>50</td><td>1st floor</td><td>AgileKip</td></tr>
-      <tr><td></td><td>PM</td><td>C2</td><td>50</td><td>1st floor</td><td>Client Zero</td></tr>
-      <tr><td></td><td>PM</td><td>C2</td><td>50</td><td>1st floor</td><td>PACOLA</td></tr>
-      <tr><td></td><td>PM</td><td>344</td><td>55</td><td>3rd floor</td><td>Natural Language</td></tr>
+      <tr><td>Wednesday</td><td>All day</td><td>B2</td><td>130</td><td>1st floor</td><td><a href="https://cascon.ca/workshops/#ML4DM">ML4DM</a></td></tr>
+      <tr><td></td><td>AM</td><td>A2</td><td>50</td><td>1st floor</td><td><a href="https://cascon.ca/program/#CASCON6">CASCON</a></td></tr>
+      <tr><td></td><td>AM</td><td>E2</td><td>50</td><td>1st floor</td><td><a href="https://cascon.ca/workshops/#SENGEC">SENGE</a>C</td></tr>
+      <tr><td></td><td>AM</td><td>344</td><td>55</td><td>3rd floor</td><td><a href="https://github.com/ZeruiW/CASCON24_Tutorial-Workshop_XAI/blob/main/Develop%20Explainable%20AI%20Services%20on%20Cloud%20Computing%20and%20Open%20Source%20Models.md"AI Service on Cloud</a></td></tr>
+      <tr><td></td><td>PM</td><td>E2</td><td>50</td><td>1st floor</td><td><a href="https://cascon.ca/workshops/#AgileKip">AgileKip</a></td></tr>
+      <tr><td></td><td>PM</td><td>C2</td><td>50</td><td>1st floor</td><td><a href="https://cascon.ca/workshops/#ClientZero">Client Zero</a></td></tr>
+      <tr><td></td><td>PM</td><td>C2</td><td>50</td><td>1st floor</td><td><a href="https://cascon.ca/workshops/#PACOLA">PACOLA</a></td></tr>
+      <tr><td></td><td>PM</td><td>344</td><td>55</td><td>3rd floor</td><td><a href="https://cascon.ca/workshops/#NatLang">Natural Language</a></td></tr>
     </tbody>
   </table>
 </div>
