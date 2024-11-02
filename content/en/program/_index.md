@@ -33,7 +33,7 @@ menu: {main: {weight: 20}}
     </thead>
     <tbody>
       <tr><td>Monday</td><td>All day</td><td>B2</td><td>130</td><td>2nd floor</td><td><a href="https://www.cser.ca/2024f/">CSER</a></td></tr>
-      <tr><td></td><td>All day</td><td>A2</td><td>50</td><td>2nd floor</td><td><a href="https://ncc-cnc.ca/">NCC-CNC</a></td></tr>
+      <tr><td></td><td>All day</td><td>A2-E2</td><td>50</td><td>2nd floor</td><td><a href="https://ncc-cnc.ca/">NCC-CNC</a></td></tr>
       <tr><td></td><td>All day</td><td>C2</td><td>50</td><td>2nd floor</td><td><a href="https://sites.google.com/view/dsds-24">DSDS</a></td></tr>
       <tr><td></td><td>AM</td><td>D2</td><td>50</td><td>2nd floor</td><td><a href="https://sites.google.com/view/cypress2024/">Cypress</a></td></tr>
       <tr><td></td><td>AM</td><td>301</td><td>10</td><td>3rd floor</td><td><a href="https://ncc-cnc.ca/">NCC-CNC</a></td></td></tr>
