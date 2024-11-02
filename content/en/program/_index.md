@@ -45,7 +45,7 @@ menu: {main: {weight: 20}}
       <tr><td></td><td>All day</td><td>C2</td><td>50</td><td>2nd floor</td><td><a href="https://cdp-workshop.github.io/CDP/">CDP</a></td></tr>
       <tr><td></td><td>AM</td><td>D2</td><td>50</td><td>2nd floor</td><td><a href="https://users.encs.concordia.ca/~abdelw/oxai2024/">OXAI</a></td></tr>
       <tr><td></td><td>PM</td><td>E2</td><td>50</td><td>2nd floor</td><td><a href="https://cascon.ca/workshops/#DITA">DITA</a></td></tr>
-      <tr><td></td><td>PM</td><td>D2</td><td>55</td><td>3rd floor</td><td>AI@Work</td></tr>
+      <tr><td></td><td>PM</td><td>D2</td><td>55</td><td>2nd floor</td><td>AI@Work</td></tr>
       <tr><td>Wednesday</td><td>All day</td><td>B2</td><td>130</td><td>2nd floor</td><td><a href="https://cascon.ca/workshops/#ML4DM">ML4DM</a></td></tr>
       <tr><td></td><td>AM</td><td>A2</td><td>50</td><td>2nd floor</td><td><a href="https://cascon.ca/program/#CASCON6">CASCON</a></td></tr>
       <tr><td></td><td>AM</td><td>E2</td><td>50</td><td>2nd floor</td><td><a href="https://yorku-ease.github.io/SENGEC/index.html">SENGE</a>C</td></tr>
