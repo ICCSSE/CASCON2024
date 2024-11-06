@@ -507,7 +507,7 @@ menu: {main: {weight: 20}}
 <a name:GenAI><strong>The Impact of GenAI in Cybersecurity</strong><br>
 Iosif Viorel (Vio) Onut, IBM Canada<br>
 
-<b>Abstract</b>: On the one hand, GenAI has great potential in cybersecurity,
+<p><b>Abstract</b>: On the one hand, GenAI has great potential in cybersecurity,
 learning from patterns in threats and vulnerabilities to enhance
 defences and thereby contribute significantly to a robust
 cybersecurity posture. A model trained on extensive cybersecurity data
@@ -523,8 +523,12 @@ Spotlight Presentation sheds light on both GenAI technologies being
 misused for cyber-attacks and opportunities for enhancing the
 cybersecurity posture of enterprise systems using GenAI technologies.
 By examining the impact of GenAI-driven social engineering attacks, we
-aim to raise awareness of responsible GenAI.<br>
-\ <br>
+aim to raise awareness of responsible GenAI.</p>
+
+<p>
+    <img src="VioOnut.jpeg" border=0
+         alt="VioOnut"
+         align="left">
 <b>Biography</b>: Iosif Viorel (Vio) Onut is Head of Centre for Advanced
 Studies, IBM Canada Lab and IBM Master Inventor at IBM Security. He is
 Adjunct Professor at the University of Ottawa and co-director of the
@@ -533,4 +537,4 @@ cybersecurity and cybercrime research and development. He is also
 passionate about curriculum and product innovation acceleration
 through R&D. Over the past decade, he has managed over 150 research
 projects involving 35 universities, led by over 90 professors, over
-360 students and over 330 IBM staff.
+360 students and over 330 IBM staff.</p>
