@@ -312,6 +312,18 @@ menu: {main: {weight: 20}}
         <sup>1</sup>Brock University, <sup>2</sup>McGill University
       </td>
     </tr>
+	<tr>
+      <td colspan="2"><strong>CASCON Invited Talk</strong> (Chair: TBD) <a name="CASCON4"></td>
+    </tr>
+    <tr>
+      <td>5:00</td>
+	  <td> 
+	    <strong><a href="GenAI">The Impact of GenAI in Cybersecurity</strong></a><br>
+		Iosif Viorel (Vio) Onut<br>
+		IBM Canada
+	  </td>
+	<tr>
+	<td>
   <tr>
   <td>05:30</td>
   <td> <strong>Poster Presentations and Reception</strong>
@@ -490,3 +502,35 @@ menu: {main: {weight: 20}}
     </tr>
   </tbody>
 </table>
+
+
+<a name:GenAI><strong>The Impact of GenAI in Cybersecurity</strong><br>
+Iosif Viorel (Vio) Onut, IBM Canada<br>
+
+<b>Abstract</b>: On the one hand, GenAI has great potential in cybersecurity,
+learning from patterns in threats and vulnerabilities to enhance
+defences and thereby contribute significantly to a robust
+cybersecurity posture. A model trained on extensive cybersecurity data
+can identify patterns and predict future threats. Cybersecurity
+professionals can use GenAI to anticipate and prevent threats,
+maximizing the effectiveness of their security tools. Enterprises may
+realize a more proactive cybersecurity approach using GenAI. On the
+other hand, GenAI technologies themselves present cybersecurity
+threats. They can be exploited for malicious purposes, such as
+identity impersonation. This misuse can significantly bolster social
+engineering attacks, making them more convincing. This CASCON 2024
+Spotlight Presentation sheds light on both GenAI technologies being
+misused for cyber-attacks and opportunities for enhancing the
+cybersecurity posture of enterprise systems using GenAI technologies.
+By examining the impact of GenAI-driven social engineering attacks, we
+aim to raise awareness of responsible GenAI.<br>
+\ <br>
+<b>Biography</b>: Iosif Viorel (Vio) Onut is Head of Centre for Advanced
+Studies, IBM Canada Lab and IBM Master Inventor at IBM Security. He is
+Adjunct Professor at the University of Ottawa and co-director of the
+University of Ottawa and IBM Cyber Range. He specializes in
+cybersecurity and cybercrime research and development. He is also
+passionate about curriculum and product innovation acceleration
+through R&D. Over the past decade, he has managed over 150 research
+projects involving 35 universities, led by over 90 professors, over
+360 students and over 330 IBM staff.
