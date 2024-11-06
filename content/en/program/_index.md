@@ -318,7 +318,7 @@ menu: {main: {weight: 20}}
     <tr>
       <td>5:00</td>
 	  <td> 
-	    <strong><a href="GenAI">The Impact of GenAI in Cybersecurity</strong></a><br>
+	    <strong><a href="#GenAI">The Impact of GenAI in Cybersecurity</strong></a><br>
 		Iosif Viorel (Vio) Onut<br>
 		IBM Canada
 	  </td>
