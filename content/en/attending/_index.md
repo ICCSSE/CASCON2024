@@ -77,7 +77,27 @@ CASCON attendees are expected to behave in accordance with the <a href="https://
 
 <p>There is also a <a href="https://www.ttc.ca/subway-stations/york-university">subway station</a> and a <a href="https://www.yrt.ca/en/index.aspx">bus hub</a> within walking distance from the venue. </p>
 
-<p>For parking options close to the venue, please see the <a href="https://www.yorku.ca/parking/parking-rates-permits/daily-rates/">York University Parking Services</a> site.</p>
+<h2>Parking</h2>
+
+<p>CASCON 2024 will take place on the 2 nd  Floor of our Second Student Centre, <a href="https://maps.app.goo.gl/ZXo8B3okcyqGqZg8A">at 15 Library
+Lane (North York)</a> on the York University Keele Campus (4700 Keele Street).</p>
+
+<p> Directions by Car:<br>
+\ <br>
+Please park on any level of the Student Services Parking Garage. Use a location app (e.g., Google
+Maps/Waze) to direct you to the 15 James Gillies Street</a></p>
+
+<p>To pay for parking, download HonkMobile app to pay for parking (instructions attached).  This parking garage
+is Zone # 7228</p>
+
+<p>Below are walking directions from Student Services Garage to Second Student Centre.  Once you are at
+Second Student Centre, take the elevator to the 2 nd  floor.</p>
+
+
+<p><img src="WalkFromParking" border=0 width="100%"
+                 alt="Walk from Parking"
+                 align="center"> </a> 
+</p>
 
 <h2>Accommodations on campus at York University:</h2>
 

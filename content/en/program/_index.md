@@ -40,7 +40,7 @@ menu: {main: {weight: 20}}
       <tr><td></td><td>PM</td><td>D2</td><td>50</td><td>2nd floor</td><td><a href="https://cascon.ca/program/#CASCON1">CASCON</a></td></tr>
       <tr><td>Tuesday</td><td>AM</td><td>B2</td><td>130</td><td>2nd floor</td><td><a href="https://cscan-infocan.ca/department-chairs-meeting/">CS-Can Chairs meeting</a></td></tr>
       <tr><td></td><td>AM</td><td>Virtual</td><td>n/a</td><td>Zoom</td><td><a href="https://sites.google.com/view/ytech2024">YTech</a></td></tr>
-      <tr><td></td><td>All day</td><td>A2</td><td>50</td><td>2nd floor</td><td><a href="https://cascon.ca/program/#CASCON3">CASCON</a></td></td></tr>
+<      <tr><td></td><td>All day</td><td>A2</td><td>50</td><td>2nd floor</td><td><a href="https://cascon.ca/program/#CASCON3">CASCON</a></td></td></tr>
       <tr><td></td><td>AM</td><td>E2</td><td>50</td><td>2nd floor</td><td><a href="https://cascon.ca/workshops/#iM-PACT">iM-PACT</a></td></tr>
       <tr><td></td><td>All day</td><td>C2</td><td>50</td><td>2nd floor</td><td><a href="https://cdp-workshop.github.io/CDP/">CDP</a></td></tr>
       <tr><td></td><td>AM</td><td>D2</td><td>50</td><td>2nd floor</td><td><a href="https://users.encs.concordia.ca/~abdelw/oxai2024/">OXAI</a></td></tr>
@@ -89,7 +89,7 @@ menu: {main: {weight: 20}}
         <sup>1</sup>Wilfrid Laurier University
       </td>
     </tr>
-    <tr>
+	<tr>
       <td>01:55</td>
       <td>
         <strong>Machine Learning-based Control of Dual-Sourcing Inventory Systems</strong><br>
@@ -118,7 +118,7 @@ menu: {main: {weight: 20}}
       <td colspan="2">Coffee Break</td>
     </tr>
     <tr>
-      <td colspan="2"><strong>Session 2</strong> (Chair: TBD)</td><a name="CASCON2">
+      <td colspan="2"><strong>Session 2</strong> (Chair: Weichao Wang - UNC Charlotte)</td><a name="CASCON2">
     </tr>
     <tr>
       <td>03:20</td>
@@ -178,7 +178,7 @@ menu: {main: {weight: 20}}
   </thead>
   <tbody>
   <tr>
-      <td colspan="2"><strong>Keynote 1</strong> (Chair: TBD)</td>
+      <td colspan="2"><strong>Keynote 1</strong> (Chair: Marios Fokaefs, York University)</td>
     </tr>
   <tr>
      <td>8:30</td>
@@ -192,7 +192,7 @@ menu: {main: {weight: 20}}
       <td colspan="2">Coffee Break</td>
     </tr>
     <tr>
-      <td colspan="2"><strong>Session 3</strong> (Chair: TBD) <a name="CASCON3"></td>
+      <td colspan="2"><strong>Opening Session</strong> (Chair: Marin Litou, York University) <a name="CASCON3"></td>
     </tr>
 	<tr>
 	  <td>10:00</td>
@@ -202,6 +202,9 @@ menu: {main: {weight: 20}}
 		   Karan Aggarwal<sup1</sup>, Chenlei Zhang, Hazel Campbell<sup>2</sup>, Abram Hindle<sup>2</sup>, Eleni Stroulia<sup>2</sup><br>
 		   <sup>1</sup>Amazon Inc., <sup>2</sup>University of Alberta
 	</tr>
+	  <tr>
+      <td colspan="2"><strong>Session 3</strong> (Chair: Francis Palma, University of New Brunswick) <a name="CASCON3"></td>
+    </tr>
 	<tr>
       <td>10:55</td>
       <td>
@@ -239,7 +242,7 @@ menu: {main: {weight: 20}}
       <td colspan="2">Lunch</td>
     </tr>
     <tr>
-      <td colspan="2"><strong>Session 4</strong> (Chair: TBD) <a name="CASCON4"></td>
+      <td colspan="2"><strong>Session 4</strong> (Chair: Akramul Azim, Ontario Tech University) <a name="CASCON4"></td>
     </tr>
     <tr>
       <td>1:30</td>
@@ -278,7 +281,7 @@ menu: {main: {weight: 20}}
       <td colspan="2">Coffee Break</td>
     </tr>
     <tr>
-      <td colspan="2"><strong>Session 5</strong> (Chair: TBD) <a name="CASCON5"></td>
+      <td colspan="2"><strong>Session 5</strong> (Chair: Fatemeh Khoda Parast, Quantstamp) <a name="CASCON5"></td>
     </tr>
     <tr>
       <td>3:20</td>
@@ -313,7 +316,7 @@ menu: {main: {weight: 20}}
       </td>
     </tr>
 	<tr>
-      <td colspan="2"><strong>CASCON Invited Talk</strong> (Chair: TBD) <a name="CASCON4"></td>
+      <td colspan="2"><strong>CASCON Invited Talk</strong> (Chair: Hausi Muller) <a name="CASCON4"></td>
     </tr>
     <tr>
       <td>5:00</td>
@@ -343,6 +346,9 @@ menu: {main: {weight: 20}}
   </thead>
   <tbody>
     <tr>
+      <td colspan="2"><strong>Keynote 2</strong> (Chair: J. Nelson Amaral, University of Alberta)</td>
+    </tr>
+    <tr>
      <td>8:30</td>
     <td>
     <a href=https://cascon.ca/keynotes/#BobBlainey><strong>Software Delivery Excellence at the Royal Bank of Canada (RBC) – Moving Fast and Not Breaking Things</strong><br></a>
@@ -354,7 +360,7 @@ menu: {main: {weight: 20}}
       <td colspan="2">Coffee Break</td>
     </tr>
     <tr>
-      <td colspan="2"><strong>Session 6</strong> (Chair: TBD) <a name="CASCON6"></td>
+      <td colspan="2"><strong>Session 6</strong> (Chair: Kelly Lions - University of Toronto) <a name="CASCON6"></td>
     </tr>
     <tr>
       <td>10:00</td>
@@ -409,7 +415,7 @@ menu: {main: {weight: 20}}
       <td colspan="2">Lunch</td>
     </tr>
     <tr>
-      <td colspan="2"><strong>Session 7</strong> (Chair: TBD) <a name="CASCON7"></td>
+      <td colspan="2"><strong>Session 7</strong> (Chair:  Christopher Anand - MacMaster University) <a name="CASCON7"></td>
     </tr>
     <tr>
       <td>01:30</td>
@@ -448,7 +454,7 @@ menu: {main: {weight: 20}}
       <td colspan="2">Coffee Break</td>
     </tr>
     <tr>
-      <td colspan="2"><strong>Session 8</strong> (Chair: TBD) <a name="CASCON8"></td>
+      <td colspan="2"><strong>Session 8</strong> (Chair: Kenneth Kent, University of New Brunswick) <a name="CASCON8"></td>
     </tr>
     <tr>
       <td>03:20</td>
