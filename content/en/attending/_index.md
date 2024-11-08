@@ -94,7 +94,7 @@ is Zone # 7228</p>
 Second Student Centre, take the elevator to the 2 nd  floor.</p>
 
 
-<p><img src="WalkFromParking" border=0 width="100%"
+<p><img src="WalkFromParking.jpg" border=0 width="100%"
                  alt="Walk from Parking"
                  align="center"> </a> 
 </p>
