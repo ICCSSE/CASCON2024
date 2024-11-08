@@ -83,7 +83,7 @@ CASCON attendees are expected to behave in accordance with the <a href="https://
 Lane (North York)</a> on the York University Keele Campus (4700 Keele Street).</p>
 
 <p> Directions by Car:<br>
-\ <br>
+ <br>
 Please park on any level of the Student Services Parking Garage. Use a location app (e.g., Google
 Maps/Waze) to direct you to the 15 James Gillies Street</a></p>
 
