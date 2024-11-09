@@ -192,7 +192,7 @@ menu: {main: {weight: 20}}
       <td colspan="2">Coffee Break</td>
     </tr>
     <tr>
-      <td colspan="2"><strong>Opening Session</strong> (Chair: Marin Litou - York University) <a name="CASCON3"></td>
+      <td colspan="2"><strong>Opening Session</strong> (Chair: Marin Litoiu - York University) <a name="CASCON3"></td>
     </tr>
 	<tr>
 	  <td>10:00</td>
@@ -316,7 +316,7 @@ menu: {main: {weight: 20}}
       </td>
     </tr>
 	<tr>
-      <td colspan="2"><strong>CASCON Invited Talk</strong> (Chair: Hausi Muller - University of Victoria) <a name="CASCON4"></td>
+      <td colspan="2"><strong>CASCON Invited Talk</strong> (Chair: Marin Litoiu - York University) <a name="CASCON4"></td>
     </tr>
     <tr>
       <td>5:00</td>
