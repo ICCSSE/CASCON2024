@@ -325,8 +325,7 @@ menu: {main: {weight: 20}}
 		Iosif Viorel (Vio) Onut<br>
 		IBM Canada
 	  </td>
-	<tr>
-	<td>
+	</tr>
   <tr>
   <td>05:30</td>
   <td> <strong>Poster Presentations and Reception</strong>
