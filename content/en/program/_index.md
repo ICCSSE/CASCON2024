@@ -79,7 +79,7 @@ menu: {main: {weight: 20}}
   </thead>
   <tbody>
     <tr>
-      <td colspan="2"><strong>Session 1</strong> (Chair: TBD)</td><a name="CASCON1">
+      <td colspan="2"><strong>Session 1</strong> (Chair: J. Nelson Amaral - University of Alberta)</td><a name="CASCON1">
     </tr>
     <tr>
       <td>01:30</td>
@@ -178,7 +178,7 @@ menu: {main: {weight: 20}}
   </thead>
   <tbody>
   <tr>
-      <td colspan="2"><strong>Keynote 1</strong> (Chair: Marios Fokaefs, York University)</td>
+      <td colspan="2"><strong>Keynote 1</strong> (Chair: Marios Fokaefs - York University)</td>
     </tr>
   <tr>
      <td>8:30</td>
@@ -192,7 +192,7 @@ menu: {main: {weight: 20}}
       <td colspan="2">Coffee Break</td>
     </tr>
     <tr>
-      <td colspan="2"><strong>Opening Session</strong> (Chair: Marin Litou, York University) <a name="CASCON3"></td>
+      <td colspan="2"><strong>Opening Session</strong> (Chair: Marin Litou - York University) <a name="CASCON3"></td>
     </tr>
 	<tr>
 	  <td>10:00</td>
@@ -203,7 +203,7 @@ menu: {main: {weight: 20}}
 		   <sup>1</sup>Amazon Inc., <sup>2</sup>University of Alberta
 	</tr>
 	  <tr>
-      <td colspan="2"><strong>Session 3</strong> (Chair: Francis Palma, University of New Brunswick) <a name="CASCON3"></td>
+      <td colspan="2"><strong>Session 3</strong> (Chair: Francis Palma - University of New Brunswick) <a name="CASCON3"></td>
     </tr>
 	<tr>
       <td>10:55</td>
@@ -242,7 +242,7 @@ menu: {main: {weight: 20}}
       <td colspan="2">Lunch</td>
     </tr>
     <tr>
-      <td colspan="2"><strong>Session 4</strong> (Chair: Akramul Azim, Ontario Tech University) <a name="CASCON4"></td>
+      <td colspan="2"><strong>Session 4</strong> (Chair: Akramul Azim - Ontario Tech University) <a name="CASCON4"></td>
     </tr>
     <tr>
       <td>1:30</td>
@@ -281,7 +281,7 @@ menu: {main: {weight: 20}}
       <td colspan="2">Coffee Break</td>
     </tr>
     <tr>
-      <td colspan="2"><strong>Session 5</strong> (Chair: Fatemeh Khoda Parast, Quantstamp) <a name="CASCON5"></td>
+      <td colspan="2"><strong>Session 5</strong> (Chair: Fatemeh Khoda Parast - Quantstamp) <a name="CASCON5"></td>
     </tr>
     <tr>
       <td>3:20</td>
@@ -316,7 +316,7 @@ menu: {main: {weight: 20}}
       </td>
     </tr>
 	<tr>
-      <td colspan="2"><strong>CASCON Invited Talk</strong> (Chair: Hausi Muller) <a name="CASCON4"></td>
+      <td colspan="2"><strong>CASCON Invited Talk</strong> (Chair: Hausi Muller - University of Victoria) <a name="CASCON4"></td>
     </tr>
     <tr>
       <td>5:00</td>
@@ -346,7 +346,7 @@ menu: {main: {weight: 20}}
   </thead>
   <tbody>
     <tr>
-      <td colspan="2"><strong>Keynote 2</strong> (Chair: J. Nelson Amaral, University of Alberta)</td>
+      <td colspan="2"><strong>Keynote 2</strong> (Chair: J. Nelson Amaral - University of Alberta)</td>
     </tr>
     <tr>
      <td>8:30</td>
@@ -415,7 +415,7 @@ menu: {main: {weight: 20}}
       <td colspan="2">Lunch</td>
     </tr>
     <tr>
-      <td colspan="2"><strong>Session 7</strong> (Chair:  Christopher Anand - MacMaster University) <a name="CASCON7"></td>
+      <td colspan="2"><strong>Session 7</strong> (Chair:  Christopher Anand - McMaster University) <a name="CASCON7"></td>
     </tr>
     <tr>
       <td>01:30</td>
@@ -454,7 +454,7 @@ menu: {main: {weight: 20}}
       <td colspan="2">Coffee Break</td>
     </tr>
     <tr>
-      <td colspan="2"><strong>Session 8</strong> (Chair: Kenneth Kent, University of New Brunswick) <a name="CASCON8"></td>
+      <td colspan="2"><strong>Session 8</strong> (Chair: Kenneth Kent - University of New Brunswick) <a name="CASCON8"></td>
     </tr>
     <tr>
       <td>03:20</td>
