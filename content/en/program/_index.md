@@ -26,7 +26,10 @@ menu: {main: {weight: 20}}
       text-align: centre;
     }
   </style>
- 
+
+<p>
+During the conference, the papers can be accessed <a href="https://uottawa-my.sharepoint.com/personal/pshirani_uottawa_ca/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fpshirani%5Fuottawa%5Fca%2FDocuments%2FCASCON%202024%20Proceedings&ga=1">in this link</a>.</p>
+
   <table class="program-schedule-table">
     <thead>
       <tr><th>Day</th><th>Time</th><th>Room</th><th>Capacity</th><th>Location</th><th>Event</th></tr>

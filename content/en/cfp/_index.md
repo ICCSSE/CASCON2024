@@ -9,6 +9,8 @@ CASCON is a premier academic and industrial conference for advanced studies in c
 
 The conference program features thought-provoking keynotes, original research papers, stimulating workshops, and an engaging technology expo. Conference proceedings will be published in the <a href="https://ieeexplore.ieee.org/Xplore/home.jsp">IEEE Xplore</a>.
 
+During the conference, the papers can be accessed <a href="https://uottawa-my.sharepoint.com/personal/pshirani_uottawa_ca/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fpshirani%5Fuottawa%5Fca%2FDocuments%2FCASCON%202024%20Proceedings&ga=1">in this link</a>.
+
 We are happy to announce that this year CASCON will be co-located with CSCAN-INFOCAN, aiming to promote knowledge sharing, networking, and innovation in Canadian computer science and related fields.
 {{% /blocks/section %}}
 
