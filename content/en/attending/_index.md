@@ -88,7 +88,7 @@ Please park on any level of the Student Services Parking Garage. Use a locatio
 Maps/Waze) to direct you to the 15 James Gillies Street</a></p>
 
 <p>To pay for parking, download HonkMobile app to pay for parking (instructions attached).  This parking garage
-is Zone # 7228</p>
+is Zone # 7728</p>
 
 <p>Below are walking directions from Student Services Garage to Second Student Centre.  Once you are at
 Second Student Centre, take the elevator to the 2 nd  floor.</p>
