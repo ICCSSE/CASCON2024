@@ -28,7 +28,9 @@ menu: {main: {weight: 20}}
   </style>
 
 <p>
-During the conference, the papers can be accessed <a href="https://uottawa-my.sharepoint.com/personal/pshirani_uottawa_ca/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fpshirani%5Fuottawa%5Fca%2FDocuments%2FCASCON%202024%20Proceedings&ga=1">in this link</a>.</p>
+During the conference, the papers can be accessed at <a href="">this revised link
+
+<a href="https://uottawa-my.sharepoint.com/personal/pshirani_uottawa_ca/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fpshirani%5Fuottawa%5Fca%2FDocuments%2FCASCON%202024%20Proceedings&ga=1">in this link</a>.</p>
 
   <table class="program-schedule-table">
     <thead>
@@ -49,7 +51,7 @@ During the conference, the papers can be accessed <a href="https://uottawa-my.sh
       <tr><td></td><td>AM</td><td>D2</td><td>50</td><td>2nd floor</td><td><a href="https://users.encs.concordia.ca/~abdelw/oxai2024/">OXAI</a></td></tr>
       <tr><td></td><td>PM</td><td>E2</td><td>50</td><td>2nd floor</td><td><a href="https://cascon.ca/workshops/#DITA">DITA</a></td></tr>
       <tr><td></td><td>PM</td><td>D2</td><td>55</td><td>2nd floor</td><td>AI@Work</td></tr>
-      <tr><td>Wednesday</td><td>All day</td><td>B2</td><td>130</td><td>2nd floor</td><td><a href="https://cascon.ca/workshops/#ML4DM">ML4DM</a></td></tr>
+      <tr><td>Wednesday</td><td>PM</td><td>B2</td><td>130</td><td>2nd floor</td><td><a href="https://cascon.ca/workshops/#ML4DM">ML4DM</a></td></tr>
       <tr><td></td><td>AM</td><td>A2</td><td>50</td><td>2nd floor</td><td><a href="https://cascon.ca/program/#CASCON6">CASCON</a></td></tr>
       <tr><td></td><td>AM</td><td>E2</td><td>50</td><td>2nd floor</td><td><a href="https://yorku-ease.github.io/SENGEC/index.html">SENGE</a>C</td></tr>
       <tr><td></td><td>AM</td><td>344</td><td>55</td><td>3rd floor</td><td><a href="https://github.com/ZeruiW/CASCON24_Tutorial-Workshop_XAI/blob/main/Develop%20Explainable%20AI%20Services%20on%20Cloud%20Computing%20and%20Open%20Source%20Models.md"AI Service on Cloud</a></td></tr>
