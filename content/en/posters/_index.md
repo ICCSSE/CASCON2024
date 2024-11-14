@@ -9,6 +9,20 @@ menu: {main: {weight: 10}}
 The maximum area available for each poster is 3 feet wide and 4 feet tall.<br>
 The following posters have been accepted for presentation at CASCON 2024.
 
+<p>Results of the <b>CASCON 2024 Best Poster Competition</b>:
+	<ul>
+	<li> <b>Best Poster:</b> 
+		<ul>
+		<li><b>Db2une: Tuning Under Pressure via Deep Learning</b><br>Alexander Bianchi, Andrew Chai, Vincent Corvinelli, Parke Godfrey, Jarek Szlichta and Calisto Zuzarte</li>
+		</ul>
+	<li>Runner Ups:</b>
+		<ul>
+		<li><b>A Functional Event-Driven Framework for Simplified Concurrent Applications</b><br>Christopher Schankula, Christopher Anand and Spencer Smith</li>
+		<li><b>GreenStream: Enabling Sustainable LLM Inference in Stream Processing</b><br>Md. Monzurul Amin Ifath and Israat Haque</li>
+		</ul>
+	</li>
+	</p>	
+
 <ul>
 <li><b>2JITsu: A Comparative Analysis of JAX and Pytorch across Modern Machine Learning Workloads</b><br>Ayrton Chilibeck, Danila Seliayeu, Jose Nelson Amaral and Andy Patterson</li>
 <li><b>A blockchain based hybrid access control for industrial internet of things using blockchain</b><br>Muhammad Shahzad Sarfraz and Muhammad Usman</li>
