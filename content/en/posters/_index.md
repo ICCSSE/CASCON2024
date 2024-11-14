@@ -25,6 +25,15 @@ The following posters have been accepted for presentation at CASCON 2024.
 	</ul>
 </p>
 
+<p>
+<table>
+<tr>
+<td> <img="IMG_1285.jpg" width="33%"> </td>
+<td> <img="IMG_1280.jpg" width="33%"> </td>
+<td> <img="IMG_1282.jpg" width="33%"> </td>
+</tr>
+</table>
+
 <p> The following posters have been accepted for presentation at CASCON 2024:
 <ul>
 <li><b>2JITsu: A Comparative Analysis of JAX and Pytorch across Modern Machine Learning Workloads</b><br>Ayrton Chilibeck, Danila Seliayeu, Jose Nelson Amaral and Andy Patterson</li>
