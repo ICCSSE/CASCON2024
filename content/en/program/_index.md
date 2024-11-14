@@ -12,6 +12,12 @@ menu: {main: {weight: 20}}
 - [Tuesday, November 12 2024](#tuesday-november-12-2024)
 - [Wednesday, November 13 2024](#wednesday-november-13-2024)
 
+<div style="display: flex; justify-content: space-between;">
+  <img src="IMG_4056.jpg" alt="Best Paper" style="width: 32%;"/>
+  <img src="IMG_4060.jpg" alt="Best Student Paper" style="width: 32%;"/>
+  <img src="IMG_4063.jpg" alt="Most Influential Paper" style="width: 32%;"/>
+</div>
+  
 ![CASCON Program Table](CASCONProgramTable.jpg)
 
 ## Full Program Schedule
