@@ -5,6 +5,17 @@ menu: {main: {weight: 10}}
 ---
 
 {{% blocks/section color="white" %}}
+
+<p>
+<table>
+<tr>
+<td><img src="IMG_4065.jpg" alt="Best Poster"></td>
+<td><img src="IMG_4067.jpg" alt="Runner Up"></td>
+<td><img src="IMG_4068.jpg" alt="Runner Up"></td>
+</tr>
+</table>
+</p>
+
 <strong>The Poster presentation and reception will be on Tuesday, November 12, starting at 5:30 PM</strong><br>
 The maximum area available for each poster is 3 feet wide and 4 feet tall.<br>
 The following posters have been accepted for presentation at CASCON 2024.
