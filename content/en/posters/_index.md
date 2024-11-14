@@ -27,7 +27,9 @@ The following posters have been accepted for presentation at CASCON 2024.
 
 <p>
 Pictures:
-<table>
+<table width="100%">
+<tr>
+<td> Best</td> <td> Runner Up</td> <td> Runner Up</td> <tr>
 <tr>
 <td align="center" width="33%> X <img src="IMG_1285.jpg" alt="Best Poster" align="center" width="100%"> </td>
 <td align="center" width="33%> <img src="IMG_1280.jpg" alt="Runner Up" align="center" width="100%"> </td>
