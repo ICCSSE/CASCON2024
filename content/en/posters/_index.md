@@ -21,8 +21,11 @@ The following posters have been accepted for presentation at CASCON 2024.
 		<li><b>GreenStream: Enabling Sustainable LLM Inference in Stream Processing</b><br>Md. Monzurul Amin Ifath and Israat Haque</li>
 		</ul>
 	</li>
-	</p>	
+	</p>
+	</ul>
+</p>
 
+<p> The following posters have been accepted for presentation at CASCON 2024:
 <ul>
 <li><b>2JITsu: A Comparative Analysis of JAX and Pytorch across Modern Machine Learning Workloads</b><br>Ayrton Chilibeck, Danila Seliayeu, Jose Nelson Amaral and Andy Patterson</li>
 <li><b>A blockchain based hybrid access control for industrial internet of things using blockchain</b><br>Muhammad Shahzad Sarfraz and Muhammad Usman</li>
