@@ -28,11 +28,12 @@ The following posters have been accepted for presentation at CASCON 2024.
 <p>
 <table>
 <tr>
-<td> <img="IMG_1285.jpg" width="33%"> </td>
-<td> <img="IMG_1280.jpg" width="33%"> </td>
-<td> <img="IMG_1282.jpg" width="33%"> </td>
+<td align="center" width="33%> <img src="IMG_1285.jpg" alt="Best Poster" align="center" width="100%"> </td>
+<td align="center" width="33%> <img src="IMG_1280.jpg" alt="Runner Up" align="center" width="100%"> </td>
+<td align="center" width="33%> <img src="IMG_1282.jpg" alt="Runner Up" align="center" width="100%"> </td>
 </tr>
 </table>
+</p>
 
 <p> The following posters have been accepted for presentation at CASCON 2024:
 <ul>
